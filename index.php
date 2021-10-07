@@ -315,7 +315,7 @@
 										<div class="elementor-element elementor-element-22eacfb elementor-widget elementor-widget-image" data-id="22eacfb" data-element_type="widget" data-widget_type="image.default">
 											<div class="elementor-widget-container">
 												<div class="elementor-image">
-													<a  href="index.html"> <img width="200" height="80" src="images/logo.jpeg" class="attachment-full size-full" alt="Docpulse" /> </a>
+													<a  href="index.php"> <img width="200" height="80" src="images/logo.jpeg" class="attachment-full size-full" alt="Docpulse" /> </a>
 												</div>
 											</div>
 										</div>
@@ -331,7 +331,7 @@
 												<div class="ekit-wid-con">
 													<div id="ekit-megamenu-menu" class="elementskit-menu-container elementskit-menu-offcanvas-elements elementskit-navbar-nav-default elementskit_line_arrow ekit-nav-menu-one-page-">
 														<ul id="main-menu" class="elementskit-navbar-nav elementskit-menu-po-right">
-															<li id="menu-item-731" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-587 current_page_item menu-item-731 nav-item elementskit-mobile-builder-content active"><a href="index.html" class="ekit-menu-nav-link active">Home</a></li>
+															<li id="menu-item-731" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-587 current_page_item menu-item-731 nav-item elementskit-mobile-builder-content active"><a href="index.php" class="ekit-menu-nav-link active">Home</a></li>
 															<li id="menu-item-25" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-25 nav-item elementskit-dropdown-has elementskit-mobile-builder-content"><a href="#" class="ekit-menu-nav-link ekit-menu-dropdown-toggle">Our Solutions<i class="elementskit-submenu-indicator"></i></a>
 															<ul class="elementskit-dropdown elementskit-submenu-panel">
 																<li id="menu-item-1084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1084 nav-item elementskit-mobile-builder-content"><a href="hospital-management-system.html" class=" dropdown-item">Hospital Management Software</a>
@@ -367,7 +367,7 @@
 														</ul>
 														<div class="elementskit-nav-identity-panel">
 															<div class="elementskit-site-title">
-																<a class="elementskit-nav-logo" href="index.html" target="_self" rel=""> <img src="images/logo.jpeg" alt=""> </a>
+																<a class="elementskit-nav-logo" href="index.php" target="_self" rel=""> <img src="images/logo.jpeg" alt=""> </a>
 															</div>
 															<button class="elementskit-menu-close elementskit-menu-toggler" type="button">X</button>
 														</div>
