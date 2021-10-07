@@ -1,28 +1,200 @@
 
 <!doctype html>
-<html lang="en-GB" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<html lang="en-GB" >
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="profile" href="http://gmpg.org/xfn/11">
-<title>Best Online OPD &amp; Hospital Management System for Hospitals, Clinics, and Doctors</title>
+
+<title>Online Hospital Management for Hospitals, Clinics and Doctors</title>
 <!-- This site is optimized with the Yoast SEO plugin v12.9.1 - https://yoast.com/wordpress/plugins/seo/ -->
-<meta name="description" content="Patient Management Software handles end to end processes right from the patient&#039;s admission to discharge. This Online OPD &amp; Hospital Management System keeps records of patients admitted, rooms assigned to them, medical bills, bed charges, tests and procedures, insurance reports, discharged reports, etc."/>
+<meta name="description" content="Docpulse provides Hospital Management and Hospital Management software for Hospitals, Clinics, Doctors, and Health care providers to manage patient appointments in just one click. Request for a demo today."/>
 <meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
 <link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Work+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.3.2' type='text/css' media='all' />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 <link rel="stylesheet" type="text/css" href="css/1m4u.css" media="all"/>
-<link rel='stylesheet' id='elementor-post-387-css'  href='css/post-387.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-371-css'  href='css/post-371.css' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-post-33-css'  href='css/post-33.css' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-post-152-css'  href='css/post-152.css' type='text/css' media='all' />
 <link rel="stylesheet" type="text/css" href="css/1m4u1.css" media="all"/>
 <link rel="stylesheet" type="text/css" href="css/1m4u2.css" media="all"/>
-<link rel="stylesheet" type="text/css" href="css/3fv4.css" media="all"/>
-
+<link rel="stylesheet" type="text/css" href="css/3g3w.css" media="all"/>
 <script src='js/1m4u.js' type="text/javascript"></script>
 
-<style type="text/css" id="sns_global_less_compiled">@media (min-width: 1200px) {
+<style type="text/css" id="sns_global_styles">.elementor-1075 .elementor-element.elementor-global-1395 .elementskit-infobox {
+padding: 50px 40px 25px 40px !important;
+}
+.services-form textarea.wpcf7-textarea {
+height: 41px; border: 0px;
+}
+.services-form h2 {
+text-align: center;color: #fff;
+}
+.services-form {
+background: #0b6091;
+padding: 10px 20px 5px 20px;
+border-radius: 3px;
+}
+.services-form input.wpcf7-form-control.wpcf7-text {
+border: 0px;
+}
+.services-form input.wpcf7-form-control.wpcf7-submit {
+color: #fff;border-color: #fff;
+}
+.services-form input.wpcf7-form-control.wpcf7-submit:hover {
+background: #80ae3a;
+}
+img.handshake {
+width: 26px;
+height: 26px;
+position: relative;
+top: 6px;
+}
+.formcol-2 {
+width: 25%;
+padding-right: calc( 19px/2 );
+padding-left: calc( 19px/2 );
+margin-bottom: 18px;
+float: left;
+}
+.formcol-2 input.wpcf7-form-control.wpcf7-text {
+background-color: #ffffff;
+border-color: rgba(122, 122, 122, 0.6);
+border-width: 1px 1px 1px 1px;
+border-radius: 0px 0px 0px 0px;
+font-size: 15px;
+min-height: 40px;
+padding: 5px 14px;
+}
+select.wpcf7-form-control.wpcf7-select {
+background-color: #ffffff;
+border-color: rgba(122, 122, 122, 0.6);
+border-width: 1px 1px 1px 1px;
+border-radius: 0px 0px 0px 0px;
+font-size: 15px;
+min-height: 40px;
+padding: 5px 14px;
+}
+.formcol-3 textarea.wpcf7-form-control.wpcf7-textarea {
+background-color: #ffffff;
+border-color: rgba(122, 122, 122, 0.6);
+border-width: 1px 1px 1px 1px;
+border-radius: 0px 0px 0px 0px;
+font-size: 15px;
+min-height: 40px;
+padding: 5px 14px;
+}
+.formcol-btn input.wpcf7-form-control.wpcf7-submit {
+background-color: #1B6592;
+font-family: "Work Sans", Sans-serif;
+font-size: 14px;
+font-weight: 500;
+text-transform: uppercase;
+letter-spacing: 0.7px;
+border-radius: 0px 0px 0px 0px;
+color: #fff;
+border-color: #1B6592;
+}
+.formcol-btn {
+text-align: center;
+margin-top: 15px;
+}
+.pricing-form {
+background-color: #FFFFFF;
+box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.29);
+transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+padding: 50px 20px 50px 20px;
+}
+.pricing-form label {
+padding-bottom: 7px;
+font-family: "Work Sans", Sans-serif;
+font-size: 14px;
+font-weight: 500;
+color: #3C3D41;
+}
+.pricing-form textarea.wpcf7-form-control.wpcf7-textarea {
+height: 65px;
+background-color: #ffffff;
+border-color: rgba(122, 122, 122, 0.27);
+border-width: 1px 1px 1px 1px;
+border-radius: 0px 0px 0px 0px;
+}
+.pricing-form select.wpcf7-form-control.wpcf7-select {
+background-color: #ffffff;
+border-color: rgba(122, 122, 122, 0.27);
+border-width: 1px 1px 1px 1px;
+border-radius: 0px 0px 0px 0px;font-size: 14px;
+}
+.pricing-form input.wpcf7-form-control.wpcf7-text {
+background-color: #ffffff;
+border-color: rgba(122, 122, 122, 0.27);
+border-width: 1px 1px 1px 1px;
+border-radius: 0px 0px 0px 0px;
+}
+.pricing-form input.wpcf7-form-control.wpcf7-submit {
+background-color: #1B6592;
+color: #FFFFFF;
+font-family: "Work Sans", Sans-serif;
+font-size: 12px;
+font-weight: 500;
+text-transform: uppercase;
+letter-spacing: 1.3px;
+border-radius: 0px 0px 0px 0px; border-color: #1B6592;
+}
+@media (max-width: 768px){
+ul.elementor-icon-list-items li.elementor-icon-list-item {
+text-align: left !important;
+justify-content: left !important;
+}
+.elementor-587 .elementor-element.elementor-element-73fe73d {
+padding: 0px 10px 0px 10px;
+}
+.elementor-472 .elementor-element.elementor-element-3d33631 > .elementor-container {
+min-height: 155px !important;
+}
+.elementor-468 .elementor-element.elementor-element-974329a {
+margin-bottom: 10px !important;
+}
+.elementor-796 .elementor-element.elementor-element-7cbb24f {
+margin-top: 5px !important;
+}
+.elementor-789 .elementor-element.elementor-element-595fadb{
+margin-top: 5px !important;
+}
+.elementor-781 .elementor-element.elementor-element-b848695{
+margin-top: 5px !important;
+}
+.elementor-1665 .elementor-element.elementor-element-7cbb24f{
+margin-top: 5px !important;
+}
+.elementor-587 .elementor-element.elementor-element-239e66e {
+margin-top: -40px;
+margin-bottom: 0px;
+padding: 0px 0px 0px 0px;
+}
+.elementor-1550 .elementor-element.elementor-element-9cd6d18 > .elementor-container {
+min-height: 200px;
+}
+}
+@media (min-width: 1200px){
+.elementor-1550 .elementor-element.elementor-element-9cd6d18 > .elementor-container{
+min-height: 320px;
+}
+.formcol-3 textarea.wpcf7-form-control.wpcf7-textarea {
+width: 98.5%;
+position: relative;
+left: 10px;
+}
+.elementor-781 .elementor-element.elementor-element-b848695 {
+margin-top: 0px !important;
+}
+.elementor-789 .elementor-element.elementor-element-595fadb{
+margin-top: 0px !important;
+}
+.elementor-796 .elementor-element.elementor-element-7cbb24f{
+margin-top: 0px !important;
+}
+}</style><style type="text/css" id="sns_global_less_compiled">@media (min-width: 1200px) {
 #mobileShow {
 display: none;
 }
@@ -77,20 +249,22 @@ padding: 0px 0px 80px 0px;
 <!-- Facebook Open Graph -->
 <meta property="og:locale" content="en_GB"/>
 <meta property="og:site_name" content="DocPulse Health Care"/>
-<meta property="og:title" content="Best Online OPD &amp; Hospital Management System for Hospitals, Clinics, and Doctors"/>
-<meta property="og:url" content="hospital-management-system.html/"/>
+<meta property="og:title" content="Online Hospital Management for Hospitals, Clinics and Doctors"/>
+<meta property="og:url" content="hospital-management.html"/>
 <meta property="og:type" content="article"/>
-<meta property="og:description" content="Patient Management Software handles end to end processes right from the patient&#039;s admission to discharge. This Online OPD &amp; Hospital Management System keeps records of patients admitted, rooms assigned to them, medical bills, bed charges, tests and procedures, insurance reports, discharged reports, etc."/>
-<meta property="og:image" content="https://docpulse.com/wp-content/uploads/2020/01/in-patient-1024x549.gif"/>
-<meta property="og:image:url" content="https://docpulse.com/wp-content/uploads/2020/01/in-patient-1024x549.gif"/>
-<meta property="og:image:secure_url" content="https://docpulse.com/wp-content/uploads/2020/01/in-patient-1024x549.gif"/>
-
-<meta name="twitter:title" content="Best Online OPD &amp; Hospital Management System for Hospitals, Clinics, and Doctors"/>
-<meta name="twitter:url" content="hospital-management-system.html/"/>
-<meta name="twitter:description" content="Patient Management Software handles end to end processes right from the patient&#039;s admission to discharge. This Online OPD &amp; Hospital Management System keeps records of patients admitted, rooms assigned to them, medical bills, bed charges, tests and procedures, insurance reports, discharged reports, etc."/>
+<meta property="og:description" content="Docpulse provides Hospital Management and Hospital Management software for Hospitals, Clinics, Doctors, and Health care providers to manage patient appointments in just one click. Request for a demo today."/>
+<meta property="og:image" content="https://docpulse.com/wp-content/uploads/2020/01/real-time-1024x527.gif"/>
+<meta property="og:image:url" content="https://docpulse.com/wp-content/uploads/2020/01/real-time-1024x527.gif"/>
+<meta property="og:image:secure_url" content="https://docpulse.com/wp-content/uploads/2020/01/real-time-1024x527.gif"/>
+<!-- Google+ / Schema.org -->
+<!-- Twitter Cards -->
+<meta name="twitter:title" content="Online Hospital Management for Hospitals, Clinics and Doctors"/>
+<meta name="twitter:url" content="hospital-management.html"/>
+<meta name="twitter:description" content="Docpulse provides Hospital Management and Hospital Management software for Hospitals, Clinics, Doctors, and Health care providers to manage patient appointments in just one click. Request for a demo today."/>
+<meta name="twitter:image" content="https://docpulse.com/wp-content/uploads/2020/01/real-time-1024x527.gif"/>
+<meta name="twitter:card" content="summary_large_image"/>
 </head>
-
-<body class="page-template page-template-elementor_header_footer page page-id-387 page-child parent-pageid-1481 wp-custom-logo elementor-default elementor-template-full-width elementor-page elementor-page-387">
+<body class="page-template page-template-elementor_header_footer page page-id-371 page-child parent-pageid-1481 wp-custom-logo elementor-default elementor-template-full-width elementor-page elementor-page-371">
 
     <div data-elementor-type="header" data-elementor-id="33" class="elementor elementor-33 elementor-location-header" data-elementor-settings="[]">
         <div class="elementor-inner">
@@ -221,24 +395,25 @@ padding: 0px 0px 80px 0px;
         </div>
         </div>
         </div>
-<div data-elementor-type="wp-page" data-elementor-id="387" class="elementor elementor-387" data-elementor-settings="[]">
+<div data-elementor-type="wp-page" data-elementor-id="371" class="elementor elementor-371" data-elementor-settings="[]">
 <div class="elementor-inner">
 <div class="elementor-section-wrap">
-<section class="elementor-element elementor-element-26ac7e6 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section" data-id="26ac7e6" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<section class="elementor-element elementor-element-af469f9 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section" data-id="af469f9" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 <div class="elementor-container elementor-column-gap-default">
 <div class="elementor-row">
-<div class="elementor-element elementor-element-ef4ae9d elementor-column elementor-col-100 elementor-top-column" data-id="ef4ae9d" data-element_type="column">
+<div class="elementor-element elementor-element-512e999 elementor-column elementor-col-100 elementor-top-column" data-id="512e999" data-element_type="column">
 <div class="elementor-column-wrap  elementor-element-populated">
 <div class="elementor-widget-wrap">
-<section class="elementor-element elementor-element-970c3ab elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="970c3ab" data-element_type="section">
+<section class="elementor-element elementor-element-d5eb345 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="d5eb345" data-element_type="section">
 <div class="elementor-container elementor-column-gap-default">
 <div class="elementor-row">
-<div class="elementor-element elementor-element-28cee6a elementor-column elementor-col-100 elementor-inner-column" data-id="28cee6a" data-element_type="column">
+<div class="elementor-element elementor-element-3953677 elementor-column elementor-col-100 elementor-inner-column" data-id="3953677" data-element_type="column">
 <div class="elementor-column-wrap  elementor-element-populated">
 <div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-daee22c elementor-widget elementor-widget-heading" data-id="daee22c" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-element elementor-element-2515539 elementor-widget elementor-widget-heading" data-id="2515539" data-element_type="widget" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h1 class="elementor-heading-title elementor-size-default">Hospital Management System</h1>		</div>
+<h1 class="elementor-heading-title elementor-size-default">Hospital Management
+</h1>		</div>
 </div>
 </div>
 </div>
@@ -252,27 +427,27 @@ padding: 0px 0px 80px 0px;
 </div>
 </div>
 </section>
-<section class="elementor-element elementor-element-f6550c8 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="f6550c8" data-element_type="section">
+<section class="elementor-element elementor-element-2bfb4fa elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="2bfb4fa" data-element_type="section">
 <div class="elementor-container elementor-column-gap-default">
 <div class="elementor-row">
-<div class="elementor-element elementor-element-7f5fb7e elementor-column elementor-col-100 elementor-top-column" data-id="7f5fb7e" data-element_type="column">
+<div class="elementor-element elementor-element-9de0dec elementor-column elementor-col-100 elementor-top-column" data-id="9de0dec" data-element_type="column">
 <div class="elementor-column-wrap  elementor-element-populated">
 <div class="elementor-widget-wrap">
-<section class="elementor-element elementor-element-d8bca0a elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="d8bca0a" data-element_type="section">
+<section class="elementor-element elementor-element-e137b8a elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="e137b8a" data-element_type="section">
 <div class="elementor-container elementor-column-gap-default">
 <div class="elementor-row">
-<div class="elementor-element elementor-element-a7075c0 elementor-column elementor-col-50 elementor-inner-column" data-id="a7075c0" data-element_type="column">
+<div class="elementor-element elementor-element-ae1241a elementor-column elementor-col-50 elementor-inner-column" data-id="ae1241a" data-element_type="column">
 <div class="elementor-column-wrap  elementor-element-populated">
 <div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-f6efb0f elementor-widget elementor-widget-text-editor" data-id="f6efb0f" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-element elementor-element-6e28d44 elementor-widget elementor-widget-text-editor" data-id="6e28d44" data-element_type="widget" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<div class="elementor-text-editor elementor-clearfix"><a href="https://docpulse.com/">Home</a> > <a href="https://docpulse.com/products/">Products</a> > Hospital Management System</div>
+<div class="elementor-text-editor elementor-clearfix"><a href="https://docpulse.com/">Home</a> > <a href="https://docpulse.com/products/">Products</a> > Hospital Management</div>
 </div>
 </div>
 </div>
 </div>
 </div>
-<div class="elementor-element elementor-element-2c33faa elementor-column elementor-col-50 elementor-inner-column" data-id="2c33faa" data-element_type="column">
+<div class="elementor-element elementor-element-e1ab915 elementor-column elementor-col-50 elementor-inner-column" data-id="e1ab915" data-element_type="column">
 <div class="elementor-column-wrap">
 <div class="elementor-widget-wrap">
 </div>
@@ -287,60 +462,66 @@ padding: 0px 0px 80px 0px;
 </div>
 </div>
 </section>
-<section class="elementor-element elementor-element-b9f84ae elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="b9f84ae" data-element_type="section">
+<section class="elementor-element elementor-element-4551e4e elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="4551e4e" data-element_type="section">
 <div class="elementor-container elementor-column-gap-default">
 <div class="elementor-row">
-<div class="elementor-element elementor-element-4e0e471 elementor-column elementor-col-100 elementor-top-column" data-id="4e0e471" data-element_type="column">
+<div class="elementor-element elementor-element-4f903bb elementor-column elementor-col-100 elementor-top-column" data-id="4f903bb" data-element_type="column">
 <div class="elementor-column-wrap  elementor-element-populated">
 <div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-2f9f165 elementor-widget elementor-widget-heading" data-id="2f9f165" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-element elementor-element-ee1b173 elementor-widget elementor-widget-heading" data-id="ee1b173" data-element_type="widget" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default">Patient Management Software for Fuelling Better Performance for Clinics, Hospitals & Doctors</h2>		</div>
+<h2 class="elementor-heading-title elementor-size-default">All Operations Management Software for Clinics,<br> Hospitals, Doctors, Path and Radio Labs<br>
+</h2>		</div>
 </div>
-<div class="elementor-element elementor-element-c8c925c elementor-widget elementor-widget-text-editor" data-id="c8c925c" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-element elementor-element-70874d0 elementor-widget elementor-widget-text-editor" data-id="70874d0" data-element_type="widget" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<div class="elementor-text-editor elementor-clearfix"><p>Implement end-to-end flows – from admission to discharge.<br />Hospitals can now enhance the services for the betterment of the patients with the <strong><b>Patient Management Software</b></strong>. This software helps in handling the patients admissions with great ease, allows hospitals to add their bills, bed charges, arrange the admission dates and discharge patients without any fuss. This is indeed the best dedicated software for improving the functioning for<strong><b> Clinics, Hospitals</b></strong> and <strong><b>Doctors</b></strong>.</p></div>
+<div class="elementor-text-editor elementor-clearfix"><p>We believe Doctors should focus on treating patients instead of wasting time in administration. Our robust platform integrates all day to day operations of a clinic/hospital into a single system and allows seamless digital administration and patient record keeping.</p></div>
 </div>
 </div>
-<section class="elementor-element elementor-element-45c6e76 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="45c6e76" data-element_type="section">
+<section class="elementor-element elementor-element-0abb740 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="0abb740" data-element_type="section">
 <div class="elementor-container elementor-column-gap-default">
 <div class="elementor-row">
-<div class="elementor-element elementor-element-c36d539 elementor-column elementor-col-50 elementor-inner-column" data-id="c36d539" data-element_type="column">
+<div class="elementor-element elementor-element-5ad74a3 elementor-column elementor-col-50 elementor-inner-column" data-id="5ad74a3" data-element_type="column">
 <div class="elementor-column-wrap  elementor-element-populated">
 <div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-61740a9 elementor-widget elementor-widget-image" data-id="61740a9" data-element_type="widget" data-widget_type="image.default">
+<div class="elementor-element elementor-element-5cea460 elementor-widget elementor-widget-image" data-id="5cea460" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
 <div class="elementor-image">
-<img width="800" height="429" src="https://docpulse.com/wp-content/uploads/2020/01/in-patient-1024x549.gif" class="attachment-large size-large" alt="Hospital Management System" srcset="https://docpulse.com/wp-content/uploads/2020/01/in-patient-1024x549.gif 1024w, https://docpulse.com/wp-content/uploads/2020/01/in-patient-300x161.gif 300w, https://docpulse.com/wp-content/uploads/2020/01/in-patient-768x411.gif 768w" sizes="(max-width: 800px) 100vw, 800px" />											</div>
+<img width="800" height="412" src="https://docpulse.com/wp-content/uploads/2020/01/real-time-1024x527.gif" class="attachment-large size-large" alt="Hospital Management" srcset="https://docpulse.com/wp-content/uploads/2020/01/real-time-1024x527.gif 1024w, https://docpulse.com/wp-content/uploads/2020/01/real-time-300x154.gif 300w, https://docpulse.com/wp-content/uploads/2020/01/real-time-768x395.gif 768w" sizes="(max-width: 800px) 100vw, 800px" />											</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-c167189 elementor-widget elementor-widget-text-editor" data-id="c167189" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<div class="elementor-text-editor elementor-clearfix"><p><a href="" target="_blank" rel="noopener"><strong>Appointment Booking Software with IVR</strong></a></p></div>
 </div>
 </div>
 </div>
 </div>
 </div>
-<div class="elementor-element elementor-element-c7841e8 elementor-column elementor-col-50 elementor-inner-column" data-id="c7841e8" data-element_type="column">
+<div class="elementor-element elementor-element-948ff18 elementor-column elementor-col-50 elementor-inner-column" data-id="948ff18" data-element_type="column">
 <div class="elementor-column-wrap  elementor-element-populated">
 <div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-216c82d elementor-widget elementor-widget-text-editor" data-id="216c82d" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-element elementor-element-064665a elementor-widget elementor-widget-text-editor" data-id="064665a" data-element_type="widget" data-widget_type="text-editor.default">
 <div class="elementor-widget-container">
-<div class="elementor-text-editor elementor-clearfix"><div role="form" class="wpcf7" id="wpcf7-f2761-p387-o1" lang="en-GB" dir="ltr">
+<div class="elementor-text-editor elementor-clearfix"><div role="form" class="wpcf7" id="wpcf7-f2031-p371-o1" lang="en-GB" dir="ltr">
 <div class="screen-reader-response" role="alert" aria-live="polite"></div>
-<form action="/products/patient-management-system/#wpcf7-f2761-p387-o1" method="post" class="wpcf7-form init" novalidate="novalidate">
+<form action="/products/appointment-management/#wpcf7-f2031-p371-o1" method="post" class="wpcf7-form init" novalidate="novalidate">
 <div style="display: none;">
-<input type="hidden" name="_wpcf7" value="2761" />
+<input type="hidden" name="_wpcf7" value="2031" />
 <input type="hidden" name="_wpcf7_version" value="5.2.2" />
 <input type="hidden" name="_wpcf7_locale" value="en_GB" />
-<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f2761-p387-o1" />
-<input type="hidden" name="_wpcf7_container_post" value="387" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f2031-p371-o1" />
+<input type="hidden" name="_wpcf7_container_post" value="371" />
 <input type="hidden" name="_wpcf7_posted_data_hash" value="" />
 </div>
 <div class="services-form">
 <h2>Enquire Now</h2>
 <p><span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Name*" /></span> </p>
 <p><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="Email Address*" /></span> </p>
-<p><span class="wpcf7-form-control-wrap tel-232"><input type="tel" name="tel-232" value="" size="40" maxlength="10" minlength="10" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="Mobile Number*" /></span></p>
-<p><span class="wpcf7-form-control-wrap text-14"><input type="text" name="text-14" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Clinic/Hospital/Org Name*" /></span></p>
-<p><span class="wpcf7-form-control-wrap menu-490"><select name="menu-490" class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" aria-required="true" aria-invalid="false"><option value="">Select Products*</option><option value="Telemedicine Software">Telemedicine Software</option><option value="IVR Appointment booking feature">IVR Appointment booking feature</option><option value="Hospital Management">Hospital Management</option><option value="Medical Billing Software">Medical Billing Software</option><option value="Electronic Medical/Health Records">Electronic Medical/Health Records</option><option value="LIMS Software">LIMS Software</option><option value="Patient Appointment Reminders">Patient Appointment Reminders</option><option value="Hospital Stock And Inventory Management">Hospital Stock And Inventory Management</option><option value="Pharmacy Management System">Pharmacy Management System</option><option value="Hospital Management System">Hospital Management System</option><option value="Vaccination Management">Vaccination Management</option><option value="Doctor Appointment App">Doctor Appointment App</option><option value="Others">Others</option></select></span></p>
-<p><span class="wpcf7-form-control-wrap text-169"><input type="text" name="text-169" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Location*" /></span></p>
+<p><span class="wpcf7-form-control-wrap tel-246"><input type="tel" name="tel-246" value="" size="40" maxlength="10" minlength="10" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false" placeholder="Mobile Number*" /></span></p>
+<p><span class="wpcf7-form-control-wrap text-227"><input type="text" name="text-227" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Clinic/Hospital/Org Name*" /></span></p>
+<p><span class="wpcf7-form-control-wrap menu-281"><select name="menu-281" class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" aria-required="true" aria-invalid="false"><option value="">Select Products*</option><option value="Telemedicine Software">Telemedicine Software</option><option value="IVR Appointment booking feature">IVR Appointment booking feature</option><option value="Hospital Management">Hospital Management</option><option value="Medical Billing Software">Medical Billing Software</option><option value="Electronic Medical/Health Records">Electronic Medical/Health Records</option><option value="LIMS Software">LIMS Software</option><option value="Patient Appointment Reminders">Patient Appointment Reminders</option><option value="Hospital Stock And Inventory Management">Hospital Stock And Inventory Management</option><option value="Pharmacy Management System">Pharmacy Management System</option><option value="Patient Management System">Patient Management System</option><option value="Vaccination Management">Vaccination Management</option><option value="Doctor Appointment App">Doctor Appointment App</option><option value="Others">Others</option></select></span></p>
+<p><span class="wpcf7-form-control-wrap text-433"><input type="text" name="text-433" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Location*" /></span></p>
 <p><span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Your Message"></textarea></span> </p>
 <p><input type="submit" value="Send Request" class="wpcf7-form-control wpcf7-submit" />
 </p></div>
@@ -359,22 +540,21 @@ padding: 0px 0px 80px 0px;
 </div>
 </div>
 </section>
-<section class="elementor-element elementor-element-3839be2 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="3839be2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+<section class="elementor-element elementor-element-1db3873 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="1db3873" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 <div class="elementor-container elementor-column-gap-default">
 <div class="elementor-row">
-<div class="elementor-element elementor-element-30bc0d6 elementor-column elementor-col-100 elementor-top-column" data-id="30bc0d6" data-element_type="column">
+<div class="elementor-element elementor-element-941801d elementor-column elementor-col-100 elementor-top-column" data-id="941801d" data-element_type="column">
 <div class="elementor-column-wrap  elementor-element-populated">
 <div class="elementor-widget-wrap">
-<section class="elementor-element elementor-element-1544f63 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="1544f63" data-element_type="section">
+<section class="elementor-element elementor-element-bdba1a6 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="bdba1a6" data-element_type="section">
 <div class="elementor-container elementor-column-gap-default">
 <div class="elementor-row">
-<div class="elementor-element elementor-element-b621f72 elementor-column elementor-col-100 elementor-inner-column" data-id="b621f72" data-element_type="column">
+<div class="elementor-element elementor-element-62eabe9 elementor-column elementor-col-100 elementor-inner-column" data-id="62eabe9" data-element_type="column">
 <div class="elementor-column-wrap  elementor-element-populated">
 <div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-2bba511 elementor-widget elementor-widget-heading" data-id="2bba511" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-element elementor-element-8b16a6a elementor-widget elementor-widget-heading" data-id="8b16a6a" data-element_type="widget" data-widget_type="heading.default">
 <div class="elementor-widget-container">
-<h3 class="elementor-heading-title elementor-size-default">Benefits of Patient Management Software
-</h3>		</div>
+<h3 class="elementor-heading-title elementor-size-default">Benefits of Hospital Management software</h3>		</div>
 </div>
 </div>
 </div>
@@ -388,32 +568,32 @@ padding: 0px 0px 80px 0px;
 </div>
 </div>
 </section>
-<section class="elementor-element elementor-element-5ad1b2f elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="5ad1b2f" data-element_type="section">
+<section class="elementor-element elementor-element-5cf9461 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="5cf9461" data-element_type="section">
 <div class="elementor-container elementor-column-gap-default">
 <div class="elementor-row">
-<div class="elementor-element elementor-element-48e222f elementor-column elementor-col-50 elementor-top-column" data-id="48e222f" data-element_type="column">
+<div class="elementor-element elementor-element-93504bb elementor-column elementor-col-50 elementor-top-column" data-id="93504bb" data-element_type="column">
 <div class="elementor-column-wrap  elementor-element-populated">
 <div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-0b67c36 elementor-widget elementor-widget-image" data-id="0b67c36" data-element_type="widget" data-widget_type="image.default">
+<div class="elementor-element elementor-element-6b19618 elementor-widget elementor-widget-image" data-id="6b19618" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
 <div class="elementor-image">
-<img width="300" height="119" src="https://docpulse.com/wp-content/uploads/2020/01/handle-admissions-300x119.png" class="attachment-medium size-medium" alt="Patient Management Software" srcset="https://docpulse.com/wp-content/uploads/2020/01/handle-admissions-300x119.png 300w, https://docpulse.com/wp-content/uploads/2020/01/handle-admissions.png 649w" sizes="(max-width: 300px) 100vw, 300px" />											</div>
+<img width="649" height="350" src="https://docpulse.com/wp-content/uploads/2020/01/screen6.png" class="attachment-large size-large" alt="Appointment Booking Software with IVR Feature" srcset="https://docpulse.com/wp-content/uploads/2020/01/screen6.png 649w, https://docpulse.com/wp-content/uploads/2020/01/screen6-300x162.png 300w" sizes="(max-width: 649px) 100vw, 649px" />											</div>
 </div>
 </div>
 </div>
 </div>
 </div>
-<div class="elementor-element elementor-element-c7775da elementor-column elementor-col-50 elementor-top-column" data-id="c7775da" data-element_type="column">
+<div class="elementor-element elementor-element-3d6aefe elementor-column elementor-col-50 elementor-top-column" data-id="3d6aefe" data-element_type="column">
 <div class="elementor-column-wrap  elementor-element-populated">
 <div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-66f98ea elementor-view-default elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="66f98ea" data-element_type="widget" data-widget_type="icon-box.default">
+<div class="elementor-element elementor-element-8d62e96 elementor-view-default elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="8d62e96" data-element_type="widget" data-widget_type="icon-box.default">
 <div class="elementor-widget-container">
 <div class="elementor-icon-box-wrapper">
 <div class="elementor-icon-box-content">
 <h2 class="elementor-icon-box-title">
-<span >Handle Admissions with Ease through DocPulse Hospital Management System</span>
+<span >Integrated Appointments through Online Appointment Scheduling App</span>
 </h2>
-<p class="elementor-icon-box-description">Admit patients, assign rooms, accept discounts and print advance receipts.</p>
+<p class="elementor-icon-box-description">Integrate IVR, Online (Web), Reception, Mobile App appointments onto one single calendar. No more clashes. Real time updates to timings.<gwmw style="display:none;"></gwmw></p>
 </div>
 </div>
 </div>
@@ -424,34 +604,17 @@ padding: 0px 0px 80px 0px;
 </div>
 </div>
 </section>
-<section class="elementor-element elementor-element-15196d8 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="15196d8" data-element_type="section">
+<section class="elementor-element elementor-element-21e4f0f elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="21e4f0f" data-element_type="section">
 <div class="elementor-container elementor-column-gap-default">
 <div class="elementor-row">
-<div class="elementor-element elementor-element-c56b06c elementor-column elementor-col-50 elementor-top-column" data-id="c56b06c" data-element_type="column">
+<div class="elementor-element elementor-element-37f9d78 elementor-column elementor-col-100 elementor-top-column" data-id="37f9d78" data-element_type="column">
 <div class="elementor-column-wrap  elementor-element-populated">
 <div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-53bf63e elementor-view-default elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="53bf63e" data-element_type="widget" data-widget_type="icon-box.default">
+<div class="elementor-element elementor-element-d45e638 elementor-widget elementor-widget-spacer" data-id="d45e638" data-element_type="widget" data-widget_type="spacer.default">
 <div class="elementor-widget-container">
-<div class="elementor-icon-box-wrapper">
-<div class="elementor-icon-box-content">
-<h2 class="elementor-icon-box-title">
-<span >Create Bills, Discharge and Print Receipt through Patient Database Management System</span>
-</h2>
-<p class="elementor-icon-box-description">Easily add bill items,calculate bed charges based on admission dates. Discharge patients</p>
+<div class="elementor-spacer">
+<div class="elementor-spacer-inner"></div>
 </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-element elementor-element-2b84c1f elementor-column elementor-col-50 elementor-top-column" data-id="2b84c1f" data-element_type="column">
-<div class="elementor-column-wrap  elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-73dfbb3 elementor-widget elementor-widget-image" data-id="73dfbb3" data-element_type="widget" data-widget_type="image.default">
-<div class="elementor-widget-container">
-<div class="elementor-image">
-<img width="300" height="159" src="https://docpulse.com/wp-content/uploads/2020/01/create-bills-300x159.png" class="attachment-medium size-medium" alt="Patient Database Management System" srcset="https://docpulse.com/wp-content/uploads/2020/01/create-bills-300x159.png 300w, https://docpulse.com/wp-content/uploads/2020/01/create-bills.png 649w" sizes="(max-width: 300px) 100vw, 300px" />											</div>
 </div>
 </div>
 </div>
@@ -460,32 +623,21 @@ padding: 0px 0px 80px 0px;
 </div>
 </div>
 </section>
-<section class="elementor-element elementor-element-59cee06 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="59cee06" data-element_type="section">
+<section class="elementor-element elementor-element-992430f elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="992430f" data-element_type="section">
 <div class="elementor-container elementor-column-gap-default">
 <div class="elementor-row">
-<div class="elementor-element elementor-element-5eadb87 elementor-column elementor-col-50 elementor-top-column" data-id="5eadb87" data-element_type="column">
+<div class="elementor-element elementor-element-992233a elementor-column elementor-col-50 elementor-top-column" data-id="992233a" data-element_type="column">
 <div class="elementor-column-wrap  elementor-element-populated">
 <div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-f8e7204 elementor-widget elementor-widget-image" data-id="f8e7204" data-element_type="widget" data-widget_type="image.default">
-<div class="elementor-widget-container">
-<div class="elementor-image">
-<img width="214" height="300" src="https://docpulse.com/wp-content/uploads/2020/02/Screenshot-2020-02-07-at-11.29.25-AM-214x300.png" class="attachment-medium size-medium" alt="data sample" srcset="https://docpulse.com/wp-content/uploads/2020/02/Screenshot-2020-02-07-at-11.29.25-AM-214x300.png 214w, https://docpulse.com/wp-content/uploads/2020/02/Screenshot-2020-02-07-at-11.29.25-AM.png 403w" sizes="(max-width: 214px) 100vw, 214px" />											</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-element elementor-element-80425d0 elementor-column elementor-col-50 elementor-top-column" data-id="80425d0" data-element_type="column">
-<div class="elementor-column-wrap  elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-e559fbb elementor-view-default elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="e559fbb" data-element_type="widget" data-widget_type="icon-box.default">
+<div class="elementor-element elementor-element-1c86b9c elementor-view-default elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="1c86b9c" data-element_type="widget" data-widget_type="icon-box.default">
 <div class="elementor-widget-container">
 <div class="elementor-icon-box-wrapper">
 <div class="elementor-icon-box-content">
 <h3 class="elementor-icon-box-title">
-<span >Professional Bill Printouts</span>
+<span >Color Coded Views</span>
 </h3>
-<p class="elementor-icon-box-description">Give detailed itemized bill to patients.</p>
+<p class="elementor-icon-box-description">Instantly identify the status of the appointment with our unique color coded views. Change and track statuses easily.
+</p>
 </div>
 </div>
 </div>
@@ -493,28 +645,96 @@ padding: 0px 0px 80px 0px;
 </div>
 </div>
 </div>
-</div>
-</div>
-</section>
-<section class="elementor-element elementor-element-78433ae elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="78433ae" data-element_type="section">
-<div class="elementor-container elementor-column-gap-default">
-<div class="elementor-row">
-<div class="elementor-element elementor-element-5a9627a elementor-column elementor-col-100 elementor-top-column" data-id="5a9627a" data-element_type="column">
+<div class="elementor-element elementor-element-3155286 elementor-column elementor-col-50 elementor-top-column" data-id="3155286" data-element_type="column">
 <div class="elementor-column-wrap  elementor-element-populated">
 <div class="elementor-widget-wrap">
-<section class="elementor-element elementor-element-ec7ea19 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="ec7ea19" data-element_type="section">
-<div class="elementor-container elementor-column-gap-default">
-<div class="elementor-row">
-<div class="elementor-element elementor-element-c49298e elementor-column elementor-col-100 elementor-inner-column" data-id="c49298e" data-element_type="column">
-<div class="elementor-column-wrap  elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-f6e799b elementor-widget elementor-widget-heading" data-id="f6e799b" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-element elementor-element-c02ff8d elementor-widget elementor-widget-image" data-id="c02ff8d" data-element_type="widget" data-widget_type="image.default">
 <div class="elementor-widget-container">
-<h3 class="elementor-heading-title elementor-size-default">Features of Hospital Management System</h3>		</div>
+<div class="elementor-image">
+<img width="649" height="350" src="https://docpulse.com/wp-content/uploads/2020/01/screen2.png" class="attachment-large size-large" alt="Real Time Calendar for Doctor Appointment" srcset="https://docpulse.com/wp-content/uploads/2020/01/screen2.png 649w, https://docpulse.com/wp-content/uploads/2020/01/screen2-300x162.png 300w" sizes="(max-width: 649px) 100vw, 649px" />											</div>
 </div>
-<div class="elementor-element elementor-element-f3090d8 elementor-widget elementor-widget-text-editor" data-id="f3090d8" data-element_type="widget" data-widget_type="text-editor.default">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-element elementor-element-38ae130 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="38ae130" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-element elementor-element-45ab4fb elementor-column elementor-col-100 elementor-top-column" data-id="45ab4fb" data-element_type="column">
+<div class="elementor-column-wrap  elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-806727f elementor-widget elementor-widget-spacer" data-id="806727f" data-element_type="widget" data-widget_type="spacer.default">
 <div class="elementor-widget-container">
-<div class="elementor-text-editor elementor-clearfix"><p>We have everything we need and more !</p></div>
+<div class="elementor-spacer">
+<div class="elementor-spacer-inner"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-element elementor-element-84fc46e elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="84fc46e" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-element elementor-element-f7f06d0 elementor-column elementor-col-50 elementor-top-column" data-id="f7f06d0" data-element_type="column">
+<div class="elementor-column-wrap  elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-708bc9f elementor-widget elementor-widget-image" data-id="708bc9f" data-element_type="widget" data-widget_type="image.default">
+<div class="elementor-widget-container">
+<div class="elementor-image">
+<img width="649" height="350" src="https://docpulse.com/wp-content/uploads/2020/01/screen7.png" class="attachment-large size-large" alt="Hospital Management" srcset="https://docpulse.com/wp-content/uploads/2020/01/screen7.png 649w, https://docpulse.com/wp-content/uploads/2020/01/screen7-300x162.png 300w" sizes="(max-width: 649px) 100vw, 649px" />											</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-7c8cd21 elementor-column elementor-col-50 elementor-top-column" data-id="7c8cd21" data-element_type="column">
+<div class="elementor-column-wrap  elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-e04458b elementor-view-default elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="e04458b" data-element_type="widget" data-widget_type="icon-box.default">
+<div class="elementor-widget-container">
+<div class="elementor-icon-box-wrapper">
+<div class="elementor-icon-box-content">
+<h3 class="elementor-icon-box-title">
+<span >Automate Time Consuming Tasks</span>
+</h3>
+<p class="elementor-icon-box-description">Shifting and cancellations often consume time and are error prone leading to patient dissatisfaction. With <b>DocPulse Hospital Management, </b>shift and cancel appointments in a jiffy.
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="elementor-element elementor-element-fb60231 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="fb60231" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-element elementor-element-57f0251 elementor-column elementor-col-100 elementor-top-column" data-id="57f0251" data-element_type="column">
+<div class="elementor-column-wrap  elementor-element-populated">
+<div class="elementor-widget-wrap">
+<section class="elementor-element elementor-element-d2eebcf elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="d2eebcf" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-element elementor-element-8f333c1 elementor-column elementor-col-100 elementor-inner-column" data-id="8f333c1" data-element_type="column">
+<div class="elementor-column-wrap  elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-c94ecb2 elementor-widget elementor-widget-heading" data-id="c94ecb2" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">Features of Hospital Management Software</h3>		</div>
+</div>
+<div class="elementor-element elementor-element-f2a3c36 elementor-widget elementor-widget-text-editor" data-id="f2a3c36" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+<!-- <div class="elementor-text-editor elementor-clearfix"><p>We have everything you need and more !</p></div> -->
 </div>
 </div>
 </div>
@@ -529,32 +749,81 @@ padding: 0px 0px 80px 0px;
 </div>
 </div>
 </section>
-<section class="elementor-element elementor-element-dd9a1e5 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="dd9a1e5" data-element_type="section">
+<section class="elementor-element elementor-element-5e208c5 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="5e208c5" data-element_type="section">
 <div class="elementor-container elementor-column-gap-default">
 <div class="elementor-row">
-<div class="elementor-element elementor-element-0672119 elementor-column elementor-col-100 elementor-top-column" data-id="0672119" data-element_type="column">
+<div class="elementor-element elementor-element-7ae4757 elementor-column elementor-col-100 elementor-top-column" data-id="7ae4757" data-element_type="column">
 <div class="elementor-column-wrap  elementor-element-populated">
 <div class="elementor-widget-wrap">
-<section class="elementor-element elementor-element-f033105 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="f033105" data-element_type="section">
+<section class="elementor-element elementor-element-790ec2b elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="790ec2b" data-element_type="section">
 <div class="elementor-container elementor-column-gap-default">
 <div class="elementor-row">
-<div class="elementor-element elementor-element-eeb5303 elementor-column elementor-col-33 elementor-inner-column" data-id="eeb5303" data-element_type="column">
+<div class="elementor-element elementor-element-55cad0a elementor-column elementor-col-33 elementor-inner-column" data-id="55cad0a" data-element_type="column">
 <div class="elementor-column-wrap  elementor-element-populated">
 <div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-09a8762 elementor-widget elementor-widget-elementskit-icon-box" data-id="09a8762" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+<div class="elementor-element elementor-element-b72e493 elementor-widget elementor-widget-elementskit-icon-box" data-id="b72e493" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
 <div class="elementor-widget-container">
 <div class="ekit-wid-con" >        <!-- link opening -->
 <!-- end link opening -->
 <div class="elementskit-infobox text-left icon-top-align elementor-animation-float    ">
 <div class="elementskit-box-header elementor-animation-">
 <div class="elementskit-info-box-icon  ">
-<i aria-hidden="true" class="elementkit-infobox-icon icon icon-sync"></i>
+<i aria-hidden="true" class="elementkit-infobox-icon icon icon-manager"></i>
 </div>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Admission                </h3>
-<p>Automate admission procedure. Assign beds, collect advances.
+    Appointment Booking             </h3>
+<p> Operator and Patient both can book appointments in the most lucid manner possible
+     </p>
+</div>
+</div>
+</div>		</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-7b183b3 elementor-column elementor-col-33 elementor-inner-column" data-id="7b183b3" data-element_type="column">
+<div class="elementor-column-wrap  elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-138e0db elementor-widget elementor-widget-elementskit-icon-box" data-id="138e0db" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con" >        <!-- link opening -->
+<!-- end link opening -->
+<div class="elementskit-infobox text-left icon-top-align elementor-animation-float    ">
+<div class="elementskit-box-header elementor-animation-">
+<div class="elementskit-info-box-icon  ">
+<i aria-hidden="true" class="elementkit-infobox-icon icon icon-help-desk"></i>
+</div>
+</div>
+<div class="box-body">
+<h3 class="elementskit-info-box-title">
+    Patient App               </h3>
+<p>Easy to Use All in One mobile App for Patients to Book Appointments Online, Download Pathology and Radiology Lab Reports, Doctor’s Prescription and So on. </p>
+</div>
+</div>
+</div>		</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-9b1bf9e elementor-column elementor-col-33 elementor-inner-column" data-id="9b1bf9e" data-element_type="column">
+<div class="elementor-column-wrap  elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-cf0a608 elementor-widget elementor-widget-elementskit-icon-box" data-id="cf0a608" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con" >        <!-- link opening -->
+<!-- end link opening -->
+<div class="elementskit-infobox text-left icon-top-align elementor-animation-float    ">
+<div class="elementskit-box-header elementor-animation-">
+<div class="elementskit-info-box-icon  ">
+<i aria-hidden="true" class="elementkit-infobox-icon icon icon-user-registration"></i>
+</div>
+</div>
+<div class="box-body">
+<h3 class="elementskit-info-box-title">
+    Appointment Management and Scheduling           </h3>
+<p>Rescheduling appointments is as easy as it can be. If a Doctor wants to postpone all his appointments by some specific time (say 30 minutes), Operator can push all appointments 30 mins forward in a single click.
 </p>
 </div>
 </div>
@@ -563,23 +832,30 @@ Admission                </h3>
 </div>
 </div>
 </div>
-<div class="elementor-element elementor-element-cff84c5 elementor-column elementor-col-33 elementor-inner-column" data-id="cff84c5" data-element_type="column">
+</div>
+</div>
+</section>
+<section class="elementor-element elementor-element-3d47faf elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="3d47faf" data-element_type="section">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-row">
+<div class="elementor-element elementor-element-09d6af6 elementor-column elementor-col-33 elementor-inner-column" data-id="09d6af6" data-element_type="column">
 <div class="elementor-column-wrap  elementor-element-populated">
 <div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-40e9a90 elementor-widget elementor-widget-elementskit-icon-box" data-id="40e9a90" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+<div class="elementor-element elementor-element-b278270 elementor-widget elementor-widget-elementskit-icon-box" data-id="b278270" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
 <div class="elementor-widget-container">
 <div class="ekit-wid-con" >        <!-- link opening -->
 <!-- end link opening -->
 <div class="elementskit-infobox text-left icon-top-align elementor-animation-float    ">
 <div class="elementskit-box-header elementor-animation-">
 <div class="elementskit-info-box-icon  ">
-<i aria-hidden="true" class="elementkit-infobox-icon icon icon-money"></i>
+<i aria-hidden="true" class="elementkit-infobox-icon icon icon-list-1"></i>
 </div>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Advance/Refunds                </h3>
-<p>Capture advances, print advance receipts manage refunds. </p>
+    Patient Management              </h3>
+<p>Dr Storks provides you an end to end Patient Management Platform right from his appointment booking for OPD to his prescription, Lab Reports, Admission Details, Discharge Details and so on on a single platform.
+</p>
 </div>
 </div>
 </div>		</div>
@@ -587,23 +863,47 @@ Advance/Refunds                </h3>
 </div>
 </div>
 </div>
-<div class="elementor-element elementor-element-22706f5 elementor-column elementor-col-33 elementor-inner-column" data-id="22706f5" data-element_type="column">
+<div class="elementor-element elementor-element-a197703 elementor-column elementor-col-33 elementor-inner-column" data-id="a197703" data-element_type="column">
 <div class="elementor-column-wrap  elementor-element-populated">
 <div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-9ff043f elementor-widget elementor-widget-elementskit-icon-box" data-id="9ff043f" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+<div class="elementor-element elementor-element-1100c40 elementor-widget elementor-widget-elementskit-icon-box" data-id="1100c40" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
 <div class="elementor-widget-container">
 <div class="ekit-wid-con" >        <!-- link opening -->
 <!-- end link opening -->
 <div class="elementskit-infobox text-left icon-top-align elementor-animation-float    ">
 <div class="elementskit-box-header elementor-animation-">
 <div class="elementskit-info-box-icon  ">
-<i aria-hidden="true" class="elementkit-infobox-icon icon icon-shuffle-arrow"></i>
+<i aria-hidden="true" class="elementkit-infobox-icon icon icon-padlock-1"></i>
 </div>
 </div>
 <div class="box-body">
 <h3 class="elementskit-info-box-title">
-Room Management                </h3>
-<p>Manage room status, setup different type of rooms.
+    Hospital Bed Management                </h3>
+<p>Operator can manage Beds easily with Dr. Storks. The beds can be grouped department wise and floor wise and their rela time availability can be viewed by the operator.</p>
+</div>
+</div>
+</div>		</div>
+</div>
+</div>
+</div>
+</div>
+<div class="elementor-element elementor-element-aeced43 elementor-column elementor-col-33 elementor-inner-column" data-id="aeced43" data-element_type="column">
+<div class="elementor-column-wrap  elementor-element-populated">
+<div class="elementor-widget-wrap">
+<div class="elementor-element elementor-element-e9568aa elementor-widget elementor-widget-elementskit-icon-box" data-id="e9568aa" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+<div class="elementor-widget-container">
+<div class="ekit-wid-con" >        <!-- link opening -->
+<!-- end link opening -->
+<div class="elementskit-infobox text-left icon-top-align elementor-animation-float    ">
+<div class="elementskit-box-header elementor-animation-">
+<div class="elementskit-info-box-icon  ">
+<i aria-hidden="true" class="elementkit-infobox-icon icon icon-users2"></i>
+</div>
+</div>
+<div class="box-body">
+<h3 class="elementskit-info-box-title">
+    Hospital Inventory Management                </h3>
+<p>Any Hospital has numerous items on Inventory and the same can be accounted for with our Inventory Management Module.
 </p>
 </div>
 </div>
@@ -615,140 +915,317 @@ Room Management                </h3>
 </div>
 </div>
 </section>
-<section class="elementor-element elementor-element-e0b512b elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="e0b512b" data-element_type="section">
-<div class="elementor-container elementor-column-gap-default">
-<div class="elementor-row">
-<div class="elementor-element elementor-element-77dfee1 elementor-column elementor-col-33 elementor-inner-column" data-id="77dfee1" data-element_type="column">
-<div class="elementor-column-wrap  elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-92a3aa0 elementor-widget elementor-widget-elementskit-icon-box" data-id="92a3aa0" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con" >        <!-- link opening -->
-<!-- end link opening -->
-<div class="elementskit-infobox text-left icon-top-align elementor-animation-float    ">
-<div class="elementskit-box-header elementor-animation-">
-<div class="elementskit-info-box-icon  ">
-<i aria-hidden="true" class="elementkit-infobox-icon icon icon-dollar"></i>
+<section class="elementor-element elementor-element-3d47faf elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="3d47faf" data-element_type="section">
+    <div class="elementor-container elementor-column-gap-default">
+    <div class="elementor-row">
+<div class="elementor-element elementor-element-aeced43 elementor-column elementor-col-33 elementor-inner-column" data-id="aeced43" data-element_type="column">
+    <div class="elementor-column-wrap  elementor-element-populated">
+    <div class="elementor-widget-wrap">
+    <div class="elementor-element elementor-element-e9568aa elementor-widget elementor-widget-elementskit-icon-box" data-id="e9568aa" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+    <div class="elementor-widget-container">
+    <div class="ekit-wid-con" >        <!-- link opening -->
+    <!-- end link opening -->
+    <div class="elementskit-infobox text-left icon-top-align elementor-animation-float    ">
+    <div class="elementskit-box-header elementor-animation-">
+    <div class="elementskit-info-box-icon  ">
+    <i aria-hidden="true" class="elementkit-infobox-icon icon icon-users2"></i>
+    </div>
+    </div>
+    <div class="box-body">
+    <h3 class="elementskit-info-box-title">
+        Pharmacy and Radiology Management                </h3>
+    <p>Dr Storks manages every aspect of a Pathology/Radiology Lab, right from receiving information of Investigations suggested by Doctor till issuing the Investigation Report. Entire Process is seamlessly integrated
+    </p>
+    </div>
+    </div>
+    </div>		</div>
+    </div>
+    </div>
+    </div>
+    </div> 
+<div class="elementor-element elementor-element-aeced43 elementor-column elementor-col-33 elementor-inner-column" data-id="aeced43" data-element_type="column">
+        <div class="elementor-column-wrap  elementor-element-populated">
+        <div class="elementor-widget-wrap">
+        <div class="elementor-element elementor-element-e9568aa elementor-widget elementor-widget-elementskit-icon-box" data-id="e9568aa" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+        <div class="elementor-widget-container">
+        <div class="ekit-wid-con" >        <!-- link opening -->
+        <!-- end link opening -->
+        <div class="elementskit-infobox text-left icon-top-align elementor-animation-float    ">
+        <div class="elementskit-box-header elementor-animation-">
+        <div class="elementskit-info-box-icon  ">
+        <i aria-hidden="true" class="elementkit-infobox-icon icon icon-users2"></i>
+        </div>
+        </div>
+        <div class="box-body">
+        <h3 class="elementskit-info-box-title">
+            Ambulance and Call Management               </h3>
+        <p>Ambulance calls can be managed swiftly to make sure no time is wasted.
+        </p>
+        </div>
+        </div>
+        </div>		</div>
+        </div>
+        </div>
+        </div>
+        </div>
+ <div class="elementor-element elementor-element-aeced43 elementor-column elementor-col-33 elementor-inner-column" data-id="aeced43" data-element_type="column">
+  <div class="elementor-column-wrap  elementor-element-populated">
+            <div class="elementor-widget-wrap">
+            <div class="elementor-element elementor-element-e9568aa elementor-widget elementor-widget-elementskit-icon-box" data-id="e9568aa" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+            <div class="elementor-widget-container">
+            <div class="ekit-wid-con" >        <!-- link opening -->
+            <!-- end link opening -->
+            <div class="elementskit-infobox text-left icon-top-align elementor-animation-float    ">
+            <div class="elementskit-box-header elementor-animation-">
+            <div class="elementskit-info-box-icon  ">
+            <i aria-hidden="true" class="elementkit-infobox-icon icon icon-users2"></i>
+            </div>
+            </div>
+            <div class="box-body">
+            <h3 class="elementskit-info-box-title">
+                Live Consultation              </h3>
+            <p>No Virus Spreads through the Internet except the Computer Virus. So let’s beat CoVid 19 Risks and shift yourself to Live Consultations
+            </p>
+            </div>
+            </div>
+            </div>		</div>
+            </div>
+            </div>
+            </div>
+            </div>
 </div>
 </div>
-<div class="box-body">
-<h3 class="elementskit-info-box-title">
-Auto Compute Bed Charges                </h3>
-<p>Automatically compute bed charges based on room types and length of stay. </p>
+</section>
+<section class="elementor-element elementor-element-3d47faf elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="3d47faf" data-element_type="section">
+    <div class="elementor-container elementor-column-gap-default">
+    <div class="elementor-row">
+<div class="elementor-element elementor-element-aeced43 elementor-column elementor-col-33 elementor-inner-column" data-id="aeced43" data-element_type="column">
+    <div class="elementor-column-wrap  elementor-element-populated">
+    <div class="elementor-widget-wrap">
+    <div class="elementor-element elementor-element-e9568aa elementor-widget elementor-widget-elementskit-icon-box" data-id="e9568aa" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+    <div class="elementor-widget-container">
+    <div class="ekit-wid-con" >        <!-- link opening -->
+    <!-- end link opening -->
+    <div class="elementskit-infobox text-left icon-top-align elementor-animation-float    ">
+    <div class="elementskit-box-header elementor-animation-">
+    <div class="elementskit-info-box-icon  ">
+    <i aria-hidden="true" class="elementkit-infobox-icon icon icon-users2"></i>
+    </div>
+    </div>
+    <div class="box-body">
+    <h3 class="elementskit-info-box-title">
+        TPA Management               </h3>
+    <p>Insurance is an Integral Part of Medical System now and so Dr. Storks makes sure that TPAs are well integrated in the system
+    </p>
+    </div>
+    </div>
+    </div>		</div>
+    </div>
+    </div>
+    </div>
+    </div> 
+<div class="elementor-element elementor-element-aeced43 elementor-column elementor-col-33 elementor-inner-column" data-id="aeced43" data-element_type="column">
+        <div class="elementor-column-wrap  elementor-element-populated">
+        <div class="elementor-widget-wrap">
+        <div class="elementor-element elementor-element-e9568aa elementor-widget elementor-widget-elementskit-icon-box" data-id="e9568aa" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+        <div class="elementor-widget-container">
+        <div class="ekit-wid-con" >        <!-- link opening -->
+        <!-- end link opening -->
+        <div class="elementskit-infobox text-left icon-top-align elementor-animation-float    ">
+        <div class="elementskit-box-header elementor-animation-">
+        <div class="elementskit-info-box-icon  ">
+        <i aria-hidden="true" class="elementkit-infobox-icon icon icon-users2"></i>
+        </div>
+        </div>
+        <div class="box-body">
+        <h3 class="elementskit-info-box-title">
+            Income & expenditure Management              </h3>
+        <p>Now Manage all Incomes and Expenditures here with our easy to use system
+        </p>
+        </div>
+        </div>
+        </div>		</div>
+        </div>
+        </div>
+        </div>
+        </div>
+ <div class="elementor-element elementor-element-aeced43 elementor-column elementor-col-33 elementor-inner-column" data-id="aeced43" data-element_type="column">
+  <div class="elementor-column-wrap  elementor-element-populated">
+            <div class="elementor-widget-wrap">
+            <div class="elementor-element elementor-element-e9568aa elementor-widget elementor-widget-elementskit-icon-box" data-id="e9568aa" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+            <div class="elementor-widget-container">
+            <div class="ekit-wid-con" >        <!-- link opening -->
+            <!-- end link opening -->
+            <div class="elementskit-infobox text-left icon-top-align elementor-animation-float    ">
+            <div class="elementskit-box-header elementor-animation-">
+            <div class="elementskit-info-box-icon  ">
+            <i aria-hidden="true" class="elementkit-infobox-icon icon icon-users2"></i>
+            </div>
+            </div>
+            <div class="box-body">
+            <h3 class="elementskit-info-box-title">
+                Blood Bank Management           </h3>
+            <p>Manage all Blood Bank Operations right from Donor management to Inventory and Recipient Management
+            </p>
+            </div>
+            </div>
+            </div>		</div>
+            </div>
+            </div>
+            </div>
+            </div>
 </div>
 </div>
-</div>		</div>
+</section>
+<section class="elementor-element elementor-element-3d47faf elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="3d47faf" data-element_type="section">
+    <div class="elementor-container elementor-column-gap-default">
+    <div class="elementor-row">
+<div class="elementor-element elementor-element-aeced43 elementor-column elementor-col-33 elementor-inner-column" data-id="aeced43" data-element_type="column">
+    <div class="elementor-column-wrap  elementor-element-populated">
+    <div class="elementor-widget-wrap">
+    <div class="elementor-element elementor-element-e9568aa elementor-widget elementor-widget-elementskit-icon-box" data-id="e9568aa" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+    <div class="elementor-widget-container">
+    <div class="ekit-wid-con" >        <!-- link opening -->
+    <!-- end link opening -->
+    <div class="elementskit-infobox text-left icon-top-align elementor-animation-float    ">
+    <div class="elementskit-box-header elementor-animation-">
+    <div class="elementskit-info-box-icon  ">
+    <i aria-hidden="true" class="elementkit-infobox-icon icon icon-users2"></i>
+    </div>
+    </div>
+    <div class="box-body">
+    <h3 class="elementskit-info-box-title">
+        Human Resource Management              </h3>
+    <p>Dr. Storks enables the management of Human Resources involved in Hospital’s Operations
+    </p>
+    </div>
+    </div>
+    </div>		</div>
+    </div>
+    </div>
+    </div>
+    </div> 
+<div class="elementor-element elementor-element-aeced43 elementor-column elementor-col-33 elementor-inner-column" data-id="aeced43" data-element_type="column">
+        <div class="elementor-column-wrap  elementor-element-populated">
+        <div class="elementor-widget-wrap">
+        <div class="elementor-element elementor-element-e9568aa elementor-widget elementor-widget-elementskit-icon-box" data-id="e9568aa" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+        <div class="elementor-widget-container">
+        <div class="ekit-wid-con" >        <!-- link opening -->
+        <!-- end link opening -->
+        <div class="elementskit-infobox text-left icon-top-align elementor-animation-float    ">
+        <div class="elementskit-box-header elementor-animation-">
+        <div class="elementskit-info-box-icon  ">
+        <i aria-hidden="true" class="elementkit-infobox-icon icon icon-users2"></i>
+        </div>
+        </div>
+        <div class="box-body">
+            <h3 class="elementskit-info-box-title">Operation Theatre Management           </h3>
+        <p>Digitize your OT record management with Dr. Storks and make your life easy
+        </p>
+        </div>
+        </div>
+        </div>		</div>
+        </div>
+        </div>
+        </div>
+        </div>
+ <div class="elementor-element elementor-element-aeced43 elementor-column elementor-col-33 elementor-inner-column" data-id="aeced43" data-element_type="column">
+  <div class="elementor-column-wrap  elementor-element-populated">
+            <div class="elementor-widget-wrap">
+            <div class="elementor-element elementor-element-e9568aa elementor-widget elementor-widget-elementskit-icon-box" data-id="e9568aa" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+            <div class="elementor-widget-container">
+            <div class="ekit-wid-con" >        <!-- link opening -->
+            <!-- end link opening -->
+            <div class="elementskit-infobox text-left icon-top-align elementor-animation-float    ">
+            <div class="elementskit-box-header elementor-animation-">
+            <div class="elementskit-info-box-icon  ">
+            <i aria-hidden="true" class="elementkit-infobox-icon icon icon-users2"></i>
+            </div>
+            </div>
+            <div class="box-body">
+            <h3 class="elementskit-info-box-title">
+                Birth and Death Record Management         </h3>
+            <p>Keep a track of all Births and Deaths in your hospital from a Single module
+            </p>
+            </div>
+            </div>
+            </div>		</div>
+            </div>
+            </div>
+            </div>
+            </div>
 </div>
 </div>
+</section>
+<section class="elementor-element elementor-element-3d47faf elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="3d47faf" data-element_type="section">
+    <div class="elementor-container elementor-column-gap-default">
+    <div class="elementor-row">
+<div class="elementor-element elementor-element-aeced43 elementor-column elementor-col-33 elementor-inner-column" data-id="aeced43" data-element_type="column">
+    <div class="elementor-column-wrap  elementor-element-populated">
+    <div class="elementor-widget-wrap">
+    <div class="elementor-element elementor-element-e9568aa elementor-widget elementor-widget-elementskit-icon-box" data-id="e9568aa" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+    <div class="elementor-widget-container">
+    <div class="ekit-wid-con" >        <!-- link opening -->
+    <!-- end link opening -->
+    <div class="elementskit-infobox text-left icon-top-align elementor-animation-float    ">
+    <div class="elementskit-box-header elementor-animation-">
+    <div class="elementskit-info-box-icon  ">
+    <i aria-hidden="true" class="elementkit-infobox-icon icon icon-users2"></i>
+    </div>
+    </div>
+    <div class="box-body">
+    <h3 class="elementskit-info-box-title">
+        Notice Board            </h3>
+    <p>Paper notices can be missed but Notice popping up as app notification definitely catches your eye. Our digital notice board makes information dissemination as effective as possible
+    </p>
+    </div>
+    </div>
+    </div>		</div>
+    </div>
+    </div>
+    </div>
+    </div> 
+<div class="elementor-element elementor-element-aeced43 elementor-column elementor-col-33 elementor-inner-column" data-id="aeced43" data-element_type="column">
+        <div class="elementor-column-wrap  elementor-element-populated">
+        <div class="elementor-widget-wrap">
+        <div class="elementor-element elementor-element-e9568aa elementor-widget elementor-widget-elementskit-icon-box" data-id="e9568aa" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+        <div class="elementor-widget-container">
+        <div class="ekit-wid-con" >        <!-- link opening -->
+        <!-- end link opening -->
+        <div class="elementskit-infobox text-left icon-top-align elementor-animation-float    ">
+        <div class="elementskit-box-header elementor-animation-">
+        <div class="elementskit-info-box-icon  ">
+        <i aria-hidden="true" class="elementkit-infobox-icon icon icon-users2"></i>
+        </div>
+        </div>
+        <div class="box-body">
+            <h3 class="elementskit-info-box-title">
+                Monitoring Reports        </h3>
+        <p>Your top Management can now monitor each and every aspect of Hospital Operations using easy to comprehend reports and Pleasing Dashboard
+        </p>
+        </div>
+        </div>
+        </div>		</div>
+        </div>
+        </div>
+        </div>
+        </div>
 </div>
 </div>
-<div class="elementor-element elementor-element-e6e6fe0 elementor-column elementor-col-33 elementor-inner-column" data-id="e6e6fe0" data-element_type="column">
-<div class="elementor-column-wrap  elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-ad6121b elementor-widget elementor-widget-elementskit-icon-box" data-id="ad6121b" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con" >        <!-- link opening -->
-<!-- end link opening -->
-<div class="elementskit-infobox text-left icon-top-align elementor-animation-float    ">
-<div class="elementskit-box-header elementor-animation-">
-<div class="elementskit-info-box-icon  ">
-<i aria-hidden="true" class="elementkit-infobox-icon fas fa-user-shield"></i>
-</div>
-</div>
-<div class="box-body">
-<h3 class="elementskit-info-box-title">
-Insurance Support                </h3>
-<p>Capture insurance payments and print the details. </p>
-</div>
-</div>
-</div>		</div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-element elementor-element-54220e3 elementor-column elementor-col-33 elementor-inner-column" data-id="54220e3" data-element_type="column">
-<div class="elementor-column-wrap  elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-5192e75 elementor-widget elementor-widget-elementskit-icon-box" data-id="5192e75" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con" >        <!-- link opening -->
-<!-- end link opening -->
-<div class="elementskit-infobox text-left icon-top-align elementor-animation-float    ">
-<div class="elementskit-box-header elementor-animation-">
-<div class="elementskit-info-box-icon  ">
-<i aria-hidden="true" class="elementkit-infobox-icon icon icon-exit"></i>
-</div>
-</div>
-<div class="box-body">
-<h3 class="elementskit-info-box-title">
-Discharge Process                </h3>
-<p>Reconcile bills, capture payments, print bills </p>
-</div>
-</div>
-</div>		</div>
-</div>
+</section>
 </div>
 </div>
 </div>
 </div>
 </div>
 </section>
-<section class="elementor-element elementor-element-d8f5554 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="d8f5554" data-element_type="section">
-<div class="elementor-container elementor-column-gap-default">
-<div class="elementor-row">
-<div class="elementor-element elementor-element-503a85f elementor-column elementor-col-33 elementor-inner-column" data-id="503a85f" data-element_type="column">
-<div class="elementor-column-wrap  elementor-element-populated">
-<div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-cf739c8 elementor-widget elementor-widget-elementskit-icon-box" data-id="cf739c8" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
-<div class="elementor-widget-container">
-<div class="ekit-wid-con" >        <!-- link opening -->
-<!-- end link opening -->
-<div class="elementskit-infobox text-left icon-top-align elementor-animation-float    ">
-<div class="elementskit-box-header elementor-animation-">
-<div class="elementskit-info-box-icon  ">
-<i aria-hidden="true" class="elementkit-infobox-icon icon icon-clipboard1"></i>
-</div>
-</div>
-<div class="box-body">
-<h3 class="elementskit-info-box-title">
-Discharge Summary Report                </h3>
-<p>Customizable discharge summary report that captures full details of the stay.
-</p>
-</div>
-</div>
-</div>		</div>
-</div>
-</div>
-</div>
-</div>
-<div class="elementor-element elementor-element-40e91bb elementor-column elementor-col-33 elementor-inner-column" data-id="40e91bb" data-element_type="column">
-<div class="elementor-column-wrap">
-<div class="elementor-widget-wrap">
-</div>
-</div>
-</div>
-<div class="elementor-element elementor-element-6b4b4c9 elementor-column elementor-col-33 elementor-inner-column" data-id="6b4b4c9" data-element_type="column">
-<div class="elementor-column-wrap">
-<div class="elementor-widget-wrap">
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-</div>
-</div>
-</div>
-</div>
-</div>
-</section>
-<section class="elementor-element elementor-element-ea3ff2e elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="ea3ff2e" data-element_type="section">
+<section class="elementor-element elementor-element-bae473b elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="bae473b" data-element_type="section">
 <div class="elementor-container elementor-column-gap-no">
 <div class="elementor-row">
-<div class="elementor-element elementor-element-21f6f7e elementor-column elementor-col-100 elementor-top-column" data-id="21f6f7e" data-element_type="column">
+<div class="elementor-element elementor-element-b418749 elementor-column elementor-col-100 elementor-top-column" data-id="b418749" data-element_type="column">
 <div class="elementor-column-wrap  elementor-element-populated">
 <div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-e43aee5 elementor-widget elementor-widget-shortcode" data-id="e43aee5" data-element_type="widget" data-widget_type="shortcode.default">
+<div class="elementor-element elementor-element-cf63a78 elementor-widget elementor-widget-shortcode" data-id="cf63a78" data-element_type="widget" data-widget_type="shortcode.default">
 <div class="elementor-widget-container">
 <div class="elementor-shortcode">		<div data-elementor-type="wp-post" data-elementor-id="468" class="elementor elementor-468" data-elementor-settings="[]">
 <div class="elementor-inner">
@@ -883,13 +1360,13 @@ DocPulse EMR is simple, and easy to use. When patients contact me over e-consult
 </div>
 </div>
 </section>
-<section class="elementor-element elementor-element-c1126ab elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="c1126ab" data-element_type="section">
+<section class="elementor-element elementor-element-ed29711 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="ed29711" data-element_type="section">
 <div class="elementor-container elementor-column-gap-no">
 <div class="elementor-row">
-<div class="elementor-element elementor-element-3e62d70 elementor-column elementor-col-100 elementor-top-column" data-id="3e62d70" data-element_type="column">
+<div class="elementor-element elementor-element-76ec3c6 elementor-column elementor-col-100 elementor-top-column" data-id="76ec3c6" data-element_type="column">
 <div class="elementor-column-wrap  elementor-element-populated">
 <div class="elementor-widget-wrap">
-<div class="elementor-element elementor-element-1306f3d elementor-widget elementor-widget-shortcode" data-id="1306f3d" data-element_type="widget" data-widget_type="shortcode.default">
+<div class="elementor-element elementor-element-f45f2ed elementor-widget elementor-widget-shortcode" data-id="f45f2ed" data-element_type="widget" data-widget_type="shortcode.default">
 <div class="elementor-widget-container">
 <div class="elementor-shortcode">		<div data-elementor-type="wp-post" data-elementor-id="472" class="elementor elementor-472" data-elementor-settings="[]">
 <div class="elementor-inner">
@@ -1055,7 +1532,7 @@ DocPulse EMR is simple, and easy to use. When patients contact me over e-consult
 </a>
 </li>
 <li class="elementor-icon-list-item" >
-<a href="hospital-management-system.html/">					<span class="elementor-icon-list-text">In Patient</span>
+<a href="https://docpulse.com/products/patient-management-system/">					<span class="elementor-icon-list-text">In Patient</span>
 </a>
 </li>
 <li class="elementor-icon-list-item" >
@@ -1122,6 +1599,7 @@ DocPulse EMR is simple, and easy to use. When patients contact me over e-consult
 </div>
 </div>
 </div>
+
 <link rel='stylesheet' id='elementor-post-111-css'  href='css/post-111.css' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-post-1665-css'  href='css/post-1665.css' type='text/css' media='all' />
 <link rel='stylesheet' id='elementor-post-468-css'  href='css/post-468.css' type='text/css' media='all' />
@@ -1150,6 +1628,5 @@ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false
 </script>
 <script type='text/javascript' src='js/frontends.min.js'></script>
 <script type='text/javascript' src='js/elementor.js'></script>
-
 </body>
-</html><!-- WP Fastest Cache file was created in 1.1975119113922 seconds, on 16-08-21 11:04:31 -->
+</html>

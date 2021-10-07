@@ -294,12 +294,7 @@
       li.demo {
       background: #dfdfdf;
       border-radius: 10px;
-    }
-
-
-p.sectionP.head {
-    margin-top: 15px;
-}
+  }
     </style>
     <link rel="icon" href="images/logo.jpeg" sizes="32x32" />
     <!-- START - Open Graph and Twitter Card Tags 3.0.0 -->
@@ -331,7 +326,7 @@ p.sectionP.head {
                       <div class="elementor-element elementor-element-22eacfb elementor-widget elementor-widget-image" data-id="22eacfb" data-element_type="widget" data-widget_type="image.default">
                         <div class="elementor-widget-container">
                           <div class="elementor-image">
-                            <a href="index.html">
+                            <a href="index.php">
                               <img width="200" height="80" src="images/logo.jpeg" class="attachment-full size-full" alt="Dr.Storks" />
                             </a>
                           </div>
@@ -350,7 +345,7 @@ p.sectionP.head {
                             <div id="ekit-megamenu-menu" class="elementskit-menu-container elementskit-menu-offcanvas-elements elementskit-navbar-nav-default elementskit_line_arrow ekit-nav-menu-one-page-">
                               <ul id="main-menu" class="elementskit-navbar-nav elementskit-menu-po-right">
                                 <li id="menu-item-731" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-587 current_page_item menu-item-731 nav-item elementskit-mobile-builder-content active">
-                                  <a href="index.html" class="ekit-menu-nav-link active">Home</a>
+                                  <a href="index.php" class="ekit-menu-nav-link active">Home</a>
                                 </li>
                                 
                                 <li id="menu-item-25" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-25 nav-item elementskit-dropdown-has elementskit-mobile-builder-content">
@@ -358,19 +353,19 @@ p.sectionP.head {
                                   </a>
                                   <ul class="elementskit-dropdown elementskit-submenu-panel">
                                     <li id="menu-item-1084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1084 nav-item elementskit-mobile-builder-content">
-                                      <a href="hospital-management-system.html" class=" dropdown-item">Hospital Management Software</a>
+                                      <a href="hospital-management-system.php" class=" dropdown-item">Hospital Management Software</a>
                                     <li id="menu-item-818" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-818 nav-item elementskit-mobile-builder-content">
-                                      <a href="clinic-management-software.html" class=" dropdown-item">Clinic Management Software</a>
+                                      <a href="clinic-management-software.php" class=" dropdown-item">Clinic Management Software</a>
                                   </ul>
                                 </li>
                                 <li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-31 nav-item elementskit-dropdown-has elementskit-mobile-builder-content">
-                                  <a href="about-us.html" class="ekit-menu-nav-link ekit-menu-dropdown-toggle">About US</a>
+                                  <a href="about-us.php" class="ekit-menu-nav-link ekit-menu-dropdown-toggle">About US</a>
                                 </li>
                                 <li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-31 nav-item elementskit-dropdown-has elementskit-mobile-builder-content">
-                                  <a href="pricing.html" class="ekit-menu-nav-link">Pricing</a>
+                                  <a href="pricing.php" class="ekit-menu-nav-link">Pricing</a>
                                 </li>
                                 <li  class="demo">
-                                    <a href="https://drstorks.com/login" target="_blank"  class="ekit-menu-nav-link">Demo</a>
+                                    <a href="https://demo.drstorks.com/login" target="_blank"  class="ekit-menu-nav-link">Demo</a>
                               
                                 </li>
                                <!--  <li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-31 nav-item elementskit-dropdown-has elementskit-mobile-builder-content ">
@@ -392,7 +387,7 @@ p.sectionP.head {
                               </ul>
                               <div class="elementskit-nav-identity-panel">
                                 <div class="elementskit-site-title">
-                                  <a class="elementskit-nav-logo" href="index.html" target="_self" rel="">
+                                  <a class="elementskit-nav-logo" href="index.php" target="_self" rel="">
                                     <img src="images/logo.jpeg" alt="">
                                   </a>
                                 </div>
@@ -414,7 +409,71 @@ p.sectionP.head {
     <div data-elementor-type="wp-page" data-elementor-id="26" class="elementor elementor-26" data-elementor-settings="[]">
       <div class="elementor-inner">
         <div class="elementor-section-wrap">
-          
+          <section class="elementor-element elementor-element-12c99d3 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section" data-id="12c99d3" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+            <div class="elementor-container elementor-column-gap-default">
+              <div class="elementor-row">
+                <div class="elementor-element elementor-element-6b17c3d elementor-column elementor-col-100 elementor-top-column" data-id="6b17c3d" data-element_type="column">
+                  <div class="elementor-column-wrap  elementor-element-populated">
+                    <div class="elementor-widget-wrap">
+                      <section class="elementor-element elementor-element-cc60756 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="cc60756" data-element_type="section">
+                        <div class="elementor-container elementor-column-gap-default">
+                          <div class="elementor-row">
+                            <div class="elementor-element elementor-element-98ecd87 elementor-column elementor-col-100 elementor-inner-column" data-id="98ecd87" data-element_type="column">
+                              <div class="elementor-column-wrap  elementor-element-populated">
+                                <div class="elementor-widget-wrap">
+                                  <div class="elementor-element elementor-element-f011ab4 elementor-widget elementor-widget-heading" data-id="f011ab4" data-element_type="widget" data-widget_type="heading.default">
+                                    <div class="elementor-widget-container">
+                                      <h1 class="elementor-heading-title elementor-size-default">About Us</h1>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </section>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+          <section class="elementor-element elementor-element-208bbc8 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="208bbc8" data-element_type="section">
+            <div class="elementor-container elementor-column-gap-default">
+              <div class="elementor-row">
+                <div class="elementor-element elementor-element-9b870ea elementor-column elementor-col-100 elementor-top-column" data-id="9b870ea" data-element_type="column">
+                  <div class="elementor-column-wrap  elementor-element-populated">
+                    <div class="elementor-widget-wrap">
+                      <section class="elementor-element elementor-element-426f19f elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="426f19f" data-element_type="section">
+                        <div class="elementor-container elementor-column-gap-default">
+                          <div class="elementor-row">
+                            <div class="elementor-element elementor-element-711f6f5 elementor-column elementor-col-50 elementor-inner-column" data-id="711f6f5" data-element_type="column">
+                              <div class="elementor-column-wrap  elementor-element-populated">
+                                <div class="elementor-widget-wrap">
+                                  <div class="elementor-element elementor-element-d8b03e9 elementor-widget elementor-widget-text-editor" data-id="d8b03e9" data-element_type="widget" data-widget_type="text-editor.default">
+                                    <div class="elementor-widget-container">
+                                      <div class="elementor-text-editor elementor-clearfix">
+                                        <a href="">Home</a> &gt; About Us
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="elementor-element elementor-element-e6b721a elementor-column elementor-col-50 elementor-inner-column" data-id="e6b721a" data-element_type="column">
+                              <div class="elementor-column-wrap">
+                                <div class="elementor-widget-wrap"></div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </section>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
           <section class="elementor-element elementor-element-568e13b elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="568e13b" data-element_type="section">
             <div class="elementor-container elementor-column-gap-default">
               <div class="elementor-row">
@@ -423,7 +482,7 @@ p.sectionP.head {
                     <div class="elementor-widget-wrap textMargin">
                       <div class="elementor-element elementor-element-aa25b29 elementor-widget elementor-widget-heading" data-id="aa25b29" data-element_type="widget" data-widget_type="heading.default">
                         <div class="elementor-widget-container">
-                          <h2 class="">Information Collection and Usage Policy</h2>
+                          <h2 class="">Dr. Storks </h2>
                         </div>
                       </div>
                     </div>
@@ -440,47 +499,10 @@ p.sectionP.head {
                   <div class="elementor-column-wrap  elementor-element-populated">
                     <div class="elementor-widget-wrap">
                       <section class="elementor-element elementor-element-f250aaa elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="f250aaa" data-element_type="section">
-                         <p class="sectionP head">
-                              <span style="font-weight: 400;">Following types of information may be collected</span>
+                         <p class="sectionP">
+                              <span style="font-weight: 400;">There are two types of people, one who work for masses, another who work for classes but there are very few who work for classes and masses at the same time. At Dot Com Labs, we believe in creating world class technologies to suit classes and making it available to masses at the most affordable prices possible.</span>
                             </p>
-                            <ul>
-                              <li>Information you provide – When you sign up for a Dr. Storks Account, we ask you for personal and professional information. We may use this data to provide you with a better experience and to improve the quality of our services. In some cases, the information you give may be shown to your customers. You will be provided an option to disable such a feature in case you do not want to share your information with your customers (patients).</li>
-                              <li>. Cookies – When you login to Dr. Storks, we send one or more cookies to your computer or other device. We use cookies to improve the quality of our service, including for storing user preferences, improving user experience.</li>
-                              <li>Log information – When you access Dr. Storks via a browser, application or other client our servers automatically record certain information. These server logs may include information such as your web request, your interaction with a service, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser or your account.</li>
-                              <li>User communications – When you send email or other communications to Dr. Storks, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. When you send and receive SMS messages to or from one of our services that provides SMS functionality, we may collect and maintain information associated with those messages, such as the phone number, the wireless carrier associated with the phone number, the content of the message, and the date and time of the transaction. We may use your email address to communicate with you about our services.</li>
-                              <li>In addition to the above, we may use the information we collect to:Provide, maintain, protect, and improve our services (including advertising services) and develop new services; and Protect the rights or property of Dr. Storks or our users.If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use.</li>
-                            </ul>
-
-                            <p class="sectionP head">
-                              <span style="font-weight: 400;">Information sharing</span>
-                            </p>
-                            <ul>
-                              <li>Dr. Storks or Dot Com Labs LLP will not share personal information and your patient data with other companies or individuals outside of Dot Com Labs LLP.</li>
-                            </ul>
-
-
-                            <p class="sectionP head">
-                              <span style="font-weight: 400;">Information security</span>
-                            </p>
-                            <ul>
-                              <li>We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, including the choice of our infrastructure providers.We restrict access to personal information to Dr. Storks employees, contractors and agents who need to know that information in order to process it on our behalf. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.</li>
-                            </ul>
-
-                            <p class="sectionP head">
-                              <span style="font-weight: 400;">Accessing and updating personal information</span>
-                            </p>
-                            <ul>
-                              <li>When you use Dr. Storks services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Because of the way we maintain certain services, after you delete your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems. Please review the service Help Centres for more information.</li>
-                            </ul>
-
-
-                            <p class="sectionP head">
-                              <span style="font-weight: 400;">Changes to this Privacy Policyg</span>
-                            </p>
-                            <ul>
-                              <li>Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes).</li>
-                            </ul>
-                        <!-- <div class="elementor-container elementor-column-gap-default boxMargin">
+                        <div class="elementor-container elementor-column-gap-default boxMargin">
 
                           <div class="elementor-row">
                             <div class="elementor-element elementor-element-42bb17b elementor-column elementor-col-50 elementor-inner-column" data-id="42bb17b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
@@ -489,6 +511,8 @@ p.sectionP.head {
                                   <div class="elementor-element elementor-element-ed22dcb elementor-widget elementor-widget-elementskit-icon-box" data-id="ed22dcb" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
                                     <div class="elementor-widget-container">
                                       <div class="ekit-wid-con">
+                                        <!-- link opening -->
+                                        <!-- end link opening -->
                                         <div class="elementskit-infobox text- icon-lef-right-aligin elementor-animation-    ">
                                           <img src="images/vision.png" style="width: 50px;">
                                           <div class="box-body">
@@ -509,6 +533,8 @@ p.sectionP.head {
                                   <div class="elementor-element elementor-element-49b6d54 elementor-widget elementor-widget-elementskit-icon-box" data-id="49b6d54" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
                                     <div class="elementor-widget-container">
                                       <div class="ekit-wid-con">
+                                        <!-- link opening -->
+                                        <!-- end link opening -->
                                         <div class="elementskit-infobox text- icon-lef-right-aligin elementor-animation-    ">
                                           <img src="images/commitment.png" style="width: 50px;">
                                           <div class="box-body">
@@ -523,7 +549,7 @@ p.sectionP.head {
                               </div>
                             </div>
                           </div>
-                        </div> -->
+                        </div>
                       </section>
                     </div>
                   </div>
@@ -531,7 +557,122 @@ p.sectionP.head {
               </div>
             </div>
           </section>
-          
+          <section class="elementor-element elementor-element-a9db512 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="a9db512" data-element_type="section">
+            <div class="elementor-container elementor-column-gap-default">
+              <div class="elementor-row">
+                <div class="elementor-element elementor-element-5d9367a elementor-column elementor-col-100 elementor-top-column" data-id="5d9367a" data-element_type="column">
+                  <div class="elementor-column-wrap  elementor-element-populated">
+                    <div class="elementor-widget-wrap">
+                      <div class="elementor-element elementor-element-2a20c5b elementor-widget elementor-widget-heading" data-id="2a20c5b" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                          <!-- <h2 class="elementor-heading-title elementor-size-default">Values</h2> -->
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+          <section class="elementor-element elementor-element-7160b21 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="7160b21" data-element_type="section">
+            <div class="elementor-container elementor-column-gap-default">
+              <div class="elementor-row">
+                <div class="elementor-element elementor-element-f0a269a elementor-column elementor-col-100 elementor-top-column" data-id="f0a269a" data-element_type="column">
+                  <div class="elementor-column-wrap  elementor-element-populated">
+                    <div class="elementor-widget-wrap">
+                      <div class="elementor-element elementor-element-7d778df elementor-widget elementor-widget-text-editor" data-id="7d778df" data-element_type="widget" data-widget_type="text-editor.default">
+                        <div class="elementor-widget-container">
+                          <div class="elementor-text-editor elementor-clearfix">
+                            <p>
+                              <h2 style="font-weight: 400;">Start Using Dr Storks Right Away with our Get Set Go Approach.</h2>
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+          <section class="elementor-element elementor-element-10c4450 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="10c4450" data-element_type="section">
+            <div class="elementor-container elementor-column-gap-default">
+              <div class="elementor-row">
+                <div class="elementor-element elementor-element-d5bc9e3 elementor-column elementor-col-33 elementor-top-column" data-id="d5bc9e3" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                  <div class="elementor-column-wrap  elementor-element-populated">
+                    <div class="elementor-widget-wrap">
+                      <div class="elementor-element elementor-element-5bb24c4 elementor-view-default elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="5bb24c4" data-element_type="widget" data-widget_type="icon-box.default">
+                        <div class="elementor-widget-container">
+                          <div class="elementor-icon-box-wrapper">
+                            <div class="elementor-icon-box-icon">
+                              <span class="elementor-icon elementor-animation-">
+                                <!-- <i aria-hidden="true" class="icon icon-Rating"></i> -->
+                                <img src="images/Get (1).jpg" width="150">
+                              </span>
+                            </div>
+                            <div class="elementor-icon-box-content">
+                              <h3 class="elementor-icon-box-title">
+                                <!-- <span>Get</span> -->
+                              </h3>
+                              <p class="elementor-icon-box-description">- Try Out the <a href="https://demo.drstorks.com/login">Demo</a> </p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="elementor-element elementor-element-9028db5 elementor-column elementor-col-33 elementor-top-column" data-id="9028db5" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                  <div class="elementor-column-wrap  elementor-element-populated">
+                    <div class="elementor-widget-wrap">
+                      <div class="elementor-element elementor-element-24ab735 elementor-view-default elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="24ab735" data-element_type="widget" data-widget_type="icon-box.default">
+                        <div class="elementor-widget-container">
+                          <div class="elementor-icon-box-wrapper">
+                            <div class="elementor-icon-box-icon">
+                              <span class="elementor-icon elementor-animation-">
+                                <!-- <i aria-hidden="true" class="icon icon-service"></i> -->
+                                 <img src="images/Untitled design (5).jpg" width="150">
+                              </span>
+                            </div>
+                            <div class="elementor-icon-box-content">
+                              <h3 class="elementor-icon-box-title">
+                                <!-- <span>Set </span> -->
+                              </h3>
+                              <p class="elementor-icon-box-description">- Schedule A <a href="about-us.php">Call</a>  </p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="elementor-element elementor-element-efa22a5 elementor-column elementor-col-33 elementor-top-column" data-id="efa22a5" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                  <div class="elementor-column-wrap  elementor-element-populated">
+                    <div class="elementor-widget-wrap">
+                      <div class="elementor-element elementor-element-7937df0 elementor-view-default elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="7937df0" data-element_type="widget" data-widget_type="icon-box.default">
+                        <div class="elementor-widget-container">
+                          <div class="elementor-icon-box-wrapper">
+                            <div class="elementor-icon-box-icon">
+                              <span class="elementor-icon elementor-animation-">
+                                <!-- <i aria-hidden="true" class="icon icon-customer-support-2"></i> -->
+                                 <img src="images/Untitled design (6).jpg" width="150">
+                              </span>
+                            </div>
+                            <div class="elementor-icon-box-content">
+                              <h3 class="elementor-icon-box-title">
+                                <!-- <span>Go</span> -->
+                              </h3>
+                              <p class="elementor-icon-box-description">- Get Your Product <a href="https://drstorks.com/login">Deployed</a></p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
         </div>
       </div>
     </div>
@@ -586,11 +727,11 @@ p.sectionP.head {
                                   <a href="">
                                     <img class="handshake" src="https://drstorks.com/images/deal-1.png" />
                                   </a>
-                                  <a class="hand-img" style="display: inline !important;" href="about-us.html">About Us</a>
+                                  <a class="hand-img" style="display: inline !important;" href="about-us.php">About Us</a>
                                 </span>
                               </li>
                               <li class="elementor-icon-list-item">
-                                <a style="display: inline !important;" href="privacy.html">
+                                <a style="display: inline !important;" href="privacy.php">
                                   <span class="elementor-icon-list-text" style="display: inline !important;">Privacy Policy</span>
                                 </a>
                               </li>
@@ -598,7 +739,7 @@ p.sectionP.head {
                           </div>
                         </div>
                       </div>
-                      
+                     
                     </div>
                   </div>
                 </div>
@@ -614,10 +755,10 @@ p.sectionP.head {
                     <div class="elementor-widget-container">
                       <ul class="elementor-icon-list-items">
                         <li class="elementor-icon-list-item">
-                          <a href="hospital-management-system.html"> <span class="elementor-icon-list-text">Hospital Management</span> </a>
+                          <a href="hospital-management-system.php"> <span class="elementor-icon-list-text">Hospital Management</span> </a>
                         </li>
                         <li class="elementor-icon-list-item">
-                          <a href="clinic-management-software.html"> <span class="elementor-icon-list-text">Clinic Management Software</span> </a>
+                          <a href="clinic-management-software.php"> <span class="elementor-icon-list-text">Clinic Management Software</span> </a>
                         </li>
                         
                       </ul>
@@ -792,3 +933,4 @@ p.sectionP.head {
     <script type='text/javascript' src='js/elementor.js'></script>
   </body>
 </html>
+<!-- WP Fastest Cache file was created in 0.85790586471558 seconds, on 26-07-21 11:27:30 -->

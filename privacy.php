@@ -331,7 +331,7 @@ p.sectionP.head {
                       <div class="elementor-element elementor-element-22eacfb elementor-widget elementor-widget-image" data-id="22eacfb" data-element_type="widget" data-widget_type="image.default">
                         <div class="elementor-widget-container">
                           <div class="elementor-image">
-                            <a href="index.html">
+                            <a href="index.php">
                               <img width="200" height="80" src="images/logo.jpeg" class="attachment-full size-full" alt="Dr.Storks" />
                             </a>
                           </div>
@@ -350,7 +350,7 @@ p.sectionP.head {
                             <div id="ekit-megamenu-menu" class="elementskit-menu-container elementskit-menu-offcanvas-elements elementskit-navbar-nav-default elementskit_line_arrow ekit-nav-menu-one-page-">
                               <ul id="main-menu" class="elementskit-navbar-nav elementskit-menu-po-right">
                                 <li id="menu-item-731" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-587 current_page_item menu-item-731 nav-item elementskit-mobile-builder-content active">
-                                  <a href="index.html" class="ekit-menu-nav-link active">Home</a>
+                                  <a href="index.php" class="ekit-menu-nav-link active">Home</a>
                                 </li>
                                 
                                 <li id="menu-item-25" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-25 nav-item elementskit-dropdown-has elementskit-mobile-builder-content">
@@ -358,19 +358,19 @@ p.sectionP.head {
                                   </a>
                                   <ul class="elementskit-dropdown elementskit-submenu-panel">
                                     <li id="menu-item-1084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1084 nav-item elementskit-mobile-builder-content">
-                                      <a href="hospital-management-system.html" class=" dropdown-item">Hospital Management Software</a>
+                                      <a href="hospital-management-system.php" class=" dropdown-item">Hospital Management Software</a>
                                     <li id="menu-item-818" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-818 nav-item elementskit-mobile-builder-content">
-                                      <a href="clinic-management-software.html" class=" dropdown-item">Clinic Management Software</a>
+                                      <a href="clinic-management-software.php" class=" dropdown-item">Clinic Management Software</a>
                                   </ul>
                                 </li>
                                 <li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-31 nav-item elementskit-dropdown-has elementskit-mobile-builder-content">
-                                  <a href="about-us.html" class="ekit-menu-nav-link ekit-menu-dropdown-toggle">About US</a>
+                                  <a href="about-us.php" class="ekit-menu-nav-link ekit-menu-dropdown-toggle">About US</a>
                                 </li>
                                 <li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-31 nav-item elementskit-dropdown-has elementskit-mobile-builder-content">
-                                  <a href="pricing.html" class="ekit-menu-nav-link">Pricing</a>
+                                  <a href="pricing.php" class="ekit-menu-nav-link">Pricing</a>
                                 </li>
                                 <li  class="demo">
-                                    <a href="https://drstorks.com/login" target="_blank"  class="ekit-menu-nav-link">Demo</a>
+                                    <a href="https://demo.drstorks.com/login" target="_blank"  class="ekit-menu-nav-link">Demo</a>
                               
                                 </li>
                                <!--  <li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-31 nav-item elementskit-dropdown-has elementskit-mobile-builder-content ">
@@ -392,7 +392,7 @@ p.sectionP.head {
                               </ul>
                               <div class="elementskit-nav-identity-panel">
                                 <div class="elementskit-site-title">
-                                  <a class="elementskit-nav-logo" href="index.html" target="_self" rel="">
+                                  <a class="elementskit-nav-logo" href="index.php" target="_self" rel="">
                                     <img src="images/logo.jpeg" alt="">
                                   </a>
                                 </div>
@@ -586,11 +586,11 @@ p.sectionP.head {
                                   <a href="">
                                     <img class="handshake" src="https://drstorks.com/images/deal-1.png" />
                                   </a>
-                                  <a class="hand-img" style="display: inline !important;" href="about-us.html">About Us</a>
+                                  <a class="hand-img" style="display: inline !important;" href="about-us.php">About Us</a>
                                 </span>
                               </li>
                               <li class="elementor-icon-list-item">
-                                <a style="display: inline !important;" href="privacy.html">
+                                <a style="display: inline !important;" href="privacy.php">
                                   <span class="elementor-icon-list-text" style="display: inline !important;">Privacy Policy</span>
                                 </a>
                               </li>
@@ -614,10 +614,10 @@ p.sectionP.head {
                     <div class="elementor-widget-container">
                       <ul class="elementor-icon-list-items">
                         <li class="elementor-icon-list-item">
-                          <a href="hospital-management-system.html"> <span class="elementor-icon-list-text">Hospital Management</span> </a>
+                          <a href="hospital-management-system.php"> <span class="elementor-icon-list-text">Hospital Management</span> </a>
                         </li>
                         <li class="elementor-icon-list-item">
-                          <a href="clinic-management-software.html"> <span class="elementor-icon-list-text">Clinic Management Software</span> </a>
+                          <a href="clinic-management-software.php"> <span class="elementor-icon-list-text">Clinic Management Software</span> </a>
                         </li>
                         
                       </ul>

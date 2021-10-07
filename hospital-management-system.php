@@ -76,33 +76,33 @@
         }
       }
       li.demo {
-        background: #dfdfdf;
-        border-radius: 10px;
-      }
+      background: #dfdfdf;
+      border-radius: 10px;
+  }
     </style>
     <link rel="icon" href="images/logo.jpeg" sizes="32x32" />
     <link rel="icon" href="images/logo.jpeg" sizes="192x192" />
-    <!-- <link rel="apple-touch-icon-precomposed" href="https://drstorks.com/wp-content/uploads/2020/02/cropped-Dr.Storks-logo-1-180x180.png" /> -->
-    <!-- <meta name="msapplication-TileImage" content="https://drstorks.com/wp-content/uploads/2020/02/cropped-Dr.Storks-logo-1-270x270.png" /> -->
+    <link rel="apple-touch-icon-precomposed" href="https://drstorks.com/wp-content/uploads/2020/02/cropped-Dr.Storks-logo-1-180x180.png" />
+    <meta name="msapplication-TileImage" content="https://drstorks.com/wp-content/uploads/2020/02/cropped-Dr.Storks-logo-1-270x270.png" />
     <!-- START - Open Graph and Twitter Card Tags 3.0.0 -->
     <!-- Facebook Open Graph -->
     <meta property="og:locale" content="en_GB" />
     <meta property="og:site_name" content="Dr.Storks Health Care" />
     <meta property="og:title" content="Best Online OPD &amp; Hospital Management System for Hospitals, Clinics, and Doctors" />
-    <meta property="og:url" content="hospital-management-system.html/" />
+    <meta property="og:url" content="hospital-management-system.php/" />
     <meta property="og:type" content="article" />
     <meta property="og:description" content="Patient Management Software handles end to end processes right from the patient&#039;s admission to discharge. This Online OPD &amp; Hospital Management System keeps records of patients admitted, rooms assigned to them, medical bills, bed charges, tests and procedures, insurance reports, discharged reports, etc." />
     <meta property="og:image" content="https://drstorks.com/wp-content/uploads/2020/01/in-patient-1024x549.gif" />
     <meta property="og:image:url" content="https://drstorks.com/wp-content/uploads/2020/01/in-patient-1024x549.gif" />
     <meta property="og:image:secure_url" content="https://drstorks.com/wp-content/uploads/2020/01/in-patient-1024x549.gif" />
     <meta name="twitter:title" content="Best Online OPD &amp; Hospital Management System for Hospitals, Clinics, and Doctors" />
-    <meta name="twitter:url" content="hospital-management-system.html/" />
+    <meta name="twitter:url" content="hospital-management-system.php/" />
     <meta name="twitter:description" content="Patient Management Software handles end to end processes right from the patient&#039;s admission to discharge. This Online OPD &amp; Hospital Management System keeps records of patients admitted, rooms assigned to them, medical bills, bed charges, tests and procedures, insurance reports, discharged reports, etc." />
   </head><body class="page-template page-template-elementor_header_footer page page-id-387 page-child parent-pageid-1481 wp-custom-logo elementor-default elementor-template-full-width elementor-page elementor-page-387" >
     <div data-elementor-type="header" data-elementor-id="33" class="elementor elementor-33 elementor-location-header" data-elementor-settings="[]">
       <div class="elementor-inner">
         <div class="elementor-section-wrap">
-          <!-- top bar -->
+          
           <section class="elementor-element elementor-element-e1646e5 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="e1646e5" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}">
             <div class="elementor-container elementor-column-gap-default">
               <div class="elementor-row">
@@ -112,7 +112,7 @@
                       <div class="elementor-element elementor-element-22eacfb elementor-widget elementor-widget-image" data-id="22eacfb" data-element_type="widget" data-widget_type="image.default">
                         <div class="elementor-widget-container">
                           <div class="elementor-image">
-                            <a data-elementor-open-lightbox="" href="index.html">
+                            <a data-elementor-open-lightbox="" href="index.php">
                               <img width="200" height="80" src="images/logo.jpeg" class="attachment-full size-full" alt="Dr.Storks" />
                             </a>
                           </div>
@@ -131,7 +131,7 @@
                             <div id="ekit-megamenu-menu" class="elementskit-menu-container elementskit-menu-offcanvas-elements elementskit-navbar-nav-default elementskit_line_arrow ekit-nav-menu-one-page-">
                               <ul id="main-menu" class="elementskit-navbar-nav elementskit-menu-po-right">
                                 <li id="menu-item-731" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-587 current_page_item menu-item-731 nav-item elementskit-mobile-builder-content active">
-                                  <a href="index.html" class="ekit-menu-nav-link active">Home</a>
+                                  <a href="index.php" class="ekit-menu-nav-link active">Home</a>
                                 </li>
                                 
                                 <li id="menu-item-25" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-25 nav-item elementskit-dropdown-has elementskit-mobile-builder-content">
@@ -139,24 +139,26 @@
                                   </a>
                                   <ul class="elementskit-dropdown elementskit-submenu-panel">
                                     <li id="menu-item-1084" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1084 nav-item elementskit-mobile-builder-content">
-                                      <a href="hospital-management-system.html" class=" dropdown-item">Hospital Management Software</a>
+                                      <a href="hospital-management-system.php" class=" dropdown-item">Hospital Management Software</a>
                                     <li id="menu-item-818" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-818 nav-item elementskit-mobile-builder-content">
-                                      <a href="clinic-management-software.html" class=" dropdown-item">Clinic Management Software</a>
-                                    
+                                      <a href="clinic-management-software.php" class=" dropdown-item">Clinic Management Software</a>
+                                    <li id="menu-item-1082" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1082 nav-item elementskit-mobile-builder-content">
                                   </ul>
                                 </li>
                                 <li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-31 nav-item elementskit-dropdown-has elementskit-mobile-builder-content">
-                                  <a href="about-us.html" class="ekit-menu-nav-link ekit-menu-dropdown-toggle">About Us 
+                                  <a href="about-us.php" class="ekit-menu-nav-link ekit-menu-dropdown-toggle">About Us 
                                   </a>
+                                  
                                 </li>
                                 <li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-31 nav-item elementskit-dropdown-has elementskit-mobile-builder-content">
-                                   <a href="pricing.html" class="ekit-menu-nav-link">Pricing</a>
+                                   <a href="pricing.php" class="ekit-menu-nav-link">Pricing</a>
+                                  
                                 </li>
                                 <li  class="demo">
-                                    <a href="https://drstorks.com/login" target="_blank" class="ekit-menu-nav-link">Demo</a>
+                                    <a href="https://demo.drstorks.com/login" target="_blank" class="ekit-menu-nav-link">Demo</a>
                               
                                 </li>
-                                <!-- <li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-31 nav-item elementskit-dropdown-has elementskit-mobile-builder-content ">
+                               <!--  <li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-31 nav-item elementskit-dropdown-has elementskit-mobile-builder-content ">
                                   <a href="#" class="ekit-menu-nav-link ekit-menu-dropdown-toggle" style="color: #4ba9e2;">MORE <i style="color: #4ba9e2;" class="elementskit-submenu-indicator"></i>
                                   </a>
                                   <ul class="elementskit-dropdown elementskit-submenu-panel">
@@ -175,7 +177,7 @@
                               </ul>
                               <div class="elementskit-nav-identity-panel">
                                 <div class="elementskit-site-title">
-                                  <a class="elementskit-nav-logo" href="index.html" target="_self" rel="">
+                                  <a class="elementskit-nav-logo" href="index.php" target="_self" rel="">
                                     <img src="images/logo.jpeg" alt="">
                                   </a>
                                 </div>
@@ -211,7 +213,7 @@
                                 <div class="elementor-widget-wrap">
                                   <div class="elementor-element elementor-element-daee22c elementor-widget elementor-widget-heading" data-id="daee22c" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <h1 class="elementor-heading-title elementor-size-default">Clinic Management Software  </h1>
+                                      <h1 class="elementor-heading-title elementor-size-default">Hospital Management Software</h1>
                                     </div>
                                   </div>
                                 </div>
@@ -241,7 +243,7 @@
                                   <div class="elementor-element elementor-element-f6efb0f elementor-widget elementor-widget-text-editor" data-id="f6efb0f" data-element_type="widget" data-widget_type="text-editor.default">
                                     <div class="elementor-widget-container">
                                       <div class="elementor-text-editor elementor-clearfix">
-                                        <a href="index.html">Home</a> > <a href="">Our Solutions</a> > Clinic Management Software
+                                        <a href="index.php">Home</a> > <a href="">Our Solutions</a> > Hospital Management System
                                       </div>
                                     </div>
                                   </div>
@@ -270,26 +272,26 @@
                     <div class="elementor-widget-wrap">
                       <div class="elementor-element elementor-element-2f9f165 elementor-widget elementor-widget-heading" data-id="2f9f165" data-element_type="widget" data-widget_type="heading.default">
                         <div class="elementor-widget-container">
-                          <h2 class="elementor-heading-title elementor-size-default">Clinic Management Software</h2>
+                          <h2 class="elementor-heading-title elementor-size-default">All Operations Management Software for Clinics, Hospitals, Doctors, Pathology and Radiology Labs</h2>
                         </div>
                       </div>
                       <div class="elementor-element elementor-element-c8c925c elementor-widget elementor-widget-text-editor" data-id="c8c925c" data-element_type="widget" data-widget_type="text-editor.default">
                         <div class="elementor-widget-container">
                           <div class="elementor-text-editor elementor-clearfix">
-                            <p> Managing a clinic is generally a very tiring experience but not with Dr. Storks. Dr. Storks makes managing clinical activities hassle free by setting the processes for each activity. By making the day to day operations paperless and providing every minute detail at a finger tap, it ensures that the Doctor's undivided attention is used in treating the patient and not managing him. Digitally maintained records make the patient’s life a lot easier and his hospital visit smoother.</p>
-                             <!-- <img width="800" height="429" src="images/Untitled design (3) (1).png" class="attachment-large size-large" alt="Hospital Management System" srcset="images/Untitled design (3).png" sizes="(max-width: 800px) 100vw, 800px" /> -->
+                            <p>We believe Doctors should focus on treating patients instead of wasting time in administration. Our robust platform integrates all day to day operations of a clinic/hospital into a single system and allows seamless digital administration and patient record keeping. </p>
+                            <img width="800" height="429" src="images/Untitled design (3) (1).png" class="attachment-large size-large" alt="Hospital Management System" srcset="images/Untitled design (3).png" sizes="(max-width: 800px) 100vw, 800px" />
                           </div>
                         </div>
                       </div>
 
-
-                      
                     </div>
                   </div>
                 </div>
               </div>
             </div>
           </section>
+         
+          
           <section class="elementor-element elementor-element-78433ae elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="78433ae" data-element_type="section">
             <div class="elementor-container elementor-column-gap-default">
               <div class="elementor-row">
@@ -304,13 +306,51 @@
                                 <div class="elementor-widget-wrap">
                                   <div class="elementor-element elementor-element-f6e799b elementor-widget elementor-widget-heading" data-id="f6e799b" data-element_type="widget" data-widget_type="heading.default">
                                     <div class="elementor-widget-container">
-                                      <h3 class="elementor-heading-title elementor-size-default">Features of Clinic Management Software: </h3>
+                                      <h3 class="elementor-heading-title elementor-size-default">Features of Hospital Management Software </h3>
                                     </div>
                                   </div>
                                   <div class="elementor-element elementor-element-f3090d8 elementor-widget elementor-widget-text-editor" data-id="f3090d8" data-element_type="widget" data-widget_type="text-editor.default">
                                     <div class="elementor-widget-container">
                                       <div class="elementor elementor-clearfix">
-                                       
+                                        <!-- <ul>
+                                          <li>Appointment Booking:</li>
+                                          <li>Operator and Patient both can book appointments in the most lucid manner possible Patient App:</li>
+                                          <li>Easy to Use All in One mobile App for Patients to Book Appointments Online, Download Pathology and Radiology Lab Reports, Doctor’s Prescription and So on.</li>
+                                          <li>Appointment Management and Scheduling:</li>
+                                          <li>Rescheduling appointments is as easy as it can be. If a Doctor wants to postpone all his appointments by some specific time (say 30 minutes), Operator can push all appointments 30 mins forward in a single click.</li>
+                                          <li>Patient Management</li>
+                                          <li>Dr Storks provides you an end to end Patient Management Platform right from his appointment booking for OPD to his prescription, Lab Reports, Admission Details, Discharge Details and so on on a single platform.</li>
+                                          <li>Hospital Bed Management:</li>
+                                          <li>Operator can manage Beds easily with Dr. Storks. The beds can be grouped department wise and floor wise and their rela time availability can be viewed by the operator.</li>
+                                          <li>Hospital Inventory Management:</li>
+                                          <li>Any Hospital has numerous items on Inventory and the same can be accounted for with our Inventory Management Module.</li>
+
+                                          <li>Pharmacy and Radiology Management:</li>
+
+                                          <li>Dr Storks manages every aspect of a Pathology/Radiology Lab, right from receiving information of Investigations suggested by Doctor till issuing the Investigation Report. Entire Process is seamlessly integrated</li>
+
+                                          <li>Ambulance and Call Management:</li>
+
+                                          <li> Ambulance calls can be managed swiftly to make sure no time is wasted</li>
+
+                                          <li>Live Consultation:</li>
+
+                                          <li>No Virus Spreads through the Internet except the Computer Virus. So let’s beat CoVid 19 Risks and shift yourself to Live Consultations</li>
+                                          <li>TPA Management:</li>
+
+
+                                          <li>Insurance is an Integral Part of Medical System now and so Dr. Storks makes sure that TPAs are well integrated in the system Income & expenditure Management:</li>
+                                          <li>Now Manage all Incomes and Expenditures here with our easy to use system Blood Bank Management:</li>
+                                          <li>Manage all Blood Bank Operations right from Donor management to Inventory and Recipient Management Human Resource Management:</li>
+                                          <li>Dr. Storks enables the management of Human Resources involved in Hospital’s Operations </li>
+                                          <li>Operation Theatre Management:</li>
+                                          <li>Digitize your OT record management with Dr. Storks and make your life easy</li>
+                                          <li>Birth and Death Record Management:</li>
+                                          <li>Keep a track of all Births and Deaths in your hospital from a Single module</li>
+                                          <li>Notice Board:</li>
+                                          <li>Paper notices can be missed but Notice popping up as app notification definitely catches your eye. Our digital notice board makes information dissemination as effective as possible Monitoring Reports:</li>
+                                          <li>Your top Management can now monitor each and every aspect of Hospital Operations using easy to comprehend reports and Pleasing Dashboard.</li>
+                                        </ul> -->
                                       </div>
                                     </div>
                                   </div>
@@ -347,12 +387,12 @@
                                           <div class="elementskit-box-header elementor-animation-">
                                             <div class="elementskit-info-box-icon  ">
                                               <!-- <i aria-hidden="true" class="elementkit-infobox-icon icon icon-sync"></i> -->
-                                              <img src="images/Appointment Management.png" style="width: 50px;">
+                                              <img src="images/Appointment Booking.png" class="iconImg">
                                             </div>
                                           </div>
                                           <div class="box-body">
-                                            <h3 class="elementskit-info-box-title"> Appointment Scheduling </h3>
-                                            <p>Enable your patient to Schedule Appointments in Advance and Manage the Waiting Room Queue. </p>
+                                            <h3 class="elementskit-info-box-title"> Appointment Booking </h3>
+                                            <p>Operator and Patient both can book appointments in the most lucid manner possible. </p>
                                           </div>
                                         </div>
                                       </div>
@@ -373,12 +413,12 @@
                                           <div class="elementskit-box-header elementor-animation-">
                                             <div class="elementskit-info-box-icon  ">
                                               <!-- <i aria-hidden="true" class="elementkit-infobox-icon icon icon-money"></i> -->
-                                              <img src="images/Live Consultation.png" style="width: 50px;">
+                                              <img src="images/Patient App.png" class="iconImg" >
                                             </div>
                                           </div>
                                           <div class="box-body">
-                                            <h3 class="elementskit-info-box-title"> Consultancy through Video Calling </h3>
-                                            <p>Avoid personal visits and save yourself from Deadly infection while serving your patient. </p>
+                                            <h3 class="elementskit-info-box-title"> Patient App </h3>
+                                            <p>Easy to Use All in One mobile App for Patients to Book Appointments Online, Download Pathology and Radiology Lab Reports, Doctor’s Prescription and So on. </p>
                                           </div>
                                         </div>
                                       </div>
@@ -399,12 +439,12 @@
                                           <div class="elementskit-box-header elementor-animation-">
                                             <div class="elementskit-info-box-icon  ">
                                               <!-- <i aria-hidden="true" class="elementkit-infobox-icon icon icon-shuffle-arrow"></i> -->
-                                              <img src="images/Patient Management.png" style="width:50px">
+                                              <img src="images/Appointment Management.png" class="iconImg" >
                                             </div>
                                           </div>
                                           <div class="box-body">
-                                            <h3 class="elementskit-info-box-title">Record Keeping of Patients</h3>
-                                            <p>Now patients need not carry bulky files as we save all of their records safe with us and available on a click. </p>
+                                            <h3 class="elementskit-info-box-title">Appointment Management and Scheduling</h3>
+                                            <p>Rescheduling appointments is as easy as it can be. If a Doctor wants to postpone all his appointments by some specific time (say 30 minutes), Operator can push all appointments 30 mins forward in a single click. </p>
                                           </div>
                                         </div>
                                       </div>
@@ -423,7 +463,24 @@
                               <div class="elementor-column-wrap  elementor-element-populated">
                                 <div class="elementor-widget-wrap">
                                   <div class="elementor-element elementor-element-92a3aa0 elementor-widget elementor-widget-elementskit-icon-box" data-id="92a3aa0" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
-                                    
+                                    <div class="elementor-widget-container">
+                                      <div class="ekit-wid-con">
+                                        <!-- link opening -->
+                                        <!-- end link opening -->
+                                        <div class="elementskit-infobox text-left icon-top-align elementor-animation-float    ">
+                                          <div class="elementskit-box-header elementor-animation-">
+                                            <div class="elementskit-info-box-icon  ">
+                                              <!-- <i aria-hidden="true" class="elementkit-infobox-icon icon icon-dollar"></i> -->
+                                              <img src="images/Patient Management.png" class="iconImg">
+                                            </div>
+                                          </div>
+                                          <div class="box-body">
+                                            <h3 class="elementskit-info-box-title"> Patient Management </h3>
+                                            <p>Dr Storks provides you an end to end Patient Management Platform right from his appointment booking for OPD to his prescription, Lab Reports, Admission Details, Discharge Details and so on on a single platform. </p>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
                                   </div>
                                 </div>
                               </div>
@@ -439,13 +496,13 @@
                                         <div class="elementskit-infobox text-left icon-top-align elementor-animation-float    ">
                                           <div class="elementskit-box-header elementor-animation-">
                                             <div class="elementskit-info-box-icon  ">
-                                              <!-- <i aria-hidden="true" class="elementkit-infobox-icon icon icon-dollar"></i> -->
-                                               <img src="images/Data Security Icon.png" style="width:50px">
+                                              <img src="images/Hospital Bed.png" class="iconImg">
+                                              <!-- <i aria-hidden="true" class="elementkit-infobox-icon fas fa-user-shield"></i> -->
                                             </div>
                                           </div>
                                           <div class="box-body">
-                                            <h3 class="elementskit-info-box-title"> Data Security </h3>
-                                            <p>We understand the need for your and patient's privacy so we deploy best in class security features. Start using Dr Storks today and give your Patients world class experience within your city. </p>
+                                            <h3 class="elementskit-info-box-title"> Hospital Bed Management</h3>
+                                            <p>Operator can manage Beds easily with Dr. Storks. The beds can be grouped department wise and floor wise and their rela time availability can be viewed by the operator. </p>
                                           </div>
                                         </div>
                                       </div>
@@ -458,7 +515,24 @@
                               <div class="elementor-column-wrap  elementor-element-populated">
                                 <div class="elementor-widget-wrap">
                                   <div class="elementor-element elementor-element-5192e75 elementor-widget elementor-widget-elementskit-icon-box" data-id="5192e75" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
-                                    
+                                    <div class="elementor-widget-container">
+                                      <div class="ekit-wid-con">
+                                        <!-- link opening -->
+                                        <!-- end link opening -->
+                                        <div class="elementskit-infobox text-left icon-top-align elementor-animation-float    ">
+                                          <div class="elementskit-box-header elementor-animation-">
+                                            <div class="elementskit-info-box-icon  ">
+                                              <img src="images/Hospital Inventory.png" class="iconImg">
+                                              <!-- <i aria-hidden="true" class="elementkit-infobox-icon icon icon-exit"></i> -->
+                                            </div>
+                                          </div>
+                                          <div class="box-body">
+                                            <h3 class="elementskit-info-box-title"> Hospital Inventory Management </h3>
+                                            <p>Any Hospital has numerous items on Inventory and the same can be accounted for with our Inventory Management Module. </p>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
                                   </div>
                                 </div>
                               </div>
@@ -466,8 +540,322 @@
                           </div>
                         </div>
                       </section>
-                      
+                      <section class="elementor-element elementor-element-d8f5554 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="d8f5554" data-element_type="section">
+                        <div class="elementor-container elementor-column-gap-default">
+                          <div class="elementor-row">
+                            <div class="elementor-element elementor-element-503a85f elementor-column elementor-col-33 elementor-inner-column" data-id="503a85f" data-element_type="column">
+                              <div class="elementor-column-wrap  elementor-element-populated">
+                                <div class="elementor-widget-wrap">
+                                  <div class="elementor-element elementor-element-cf739c8 elementor-widget elementor-widget-elementskit-icon-box" data-id="cf739c8" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+                                    <div class="elementor-widget-container">
+                                      <div class="ekit-wid-con">
+                                        <!-- link opening -->
+                                        <!-- end link opening -->
+                                        <div class="elementskit-infobox text-left icon-top-align elementor-animation-float    ">
+                                          <div class="elementskit-box-header elementor-animation-">
+                                            <div class="elementskit-info-box-icon  ">
+                                              <!-- <i aria-hidden="true" class="elementkit-infobox-icon icon icon-clipboard1"></i> -->
+                                              <img src="images/Pharmacy and Radiology.png" class="iconImg">
+                                            </div>
+                                          </div>
+                                          <div class="box-body">
+                                            <h3 class="elementskit-info-box-title">Pharmacy and Radiology Management </h3>
+                                            <p>Dr Storks manages every aspect of a Pathology/Radiology Lab, right from receiving information of Investigations suggested by Doctor till issuing the Investigation Report. Entire Process is seamlessly integrated. </p>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="elementor-element elementor-element-503a85f elementor-column elementor-col-33 elementor-inner-column" data-id="503a85f" data-element_type="column">
+                              <div class="elementor-column-wrap  elementor-element-populated">
+                                <div class="elementor-widget-wrap">
+                                  <div class="elementor-element elementor-element-cf739c8 elementor-widget elementor-widget-elementskit-icon-box" data-id="cf739c8" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+                                    <div class="elementor-widget-container">
+                                      <div class="ekit-wid-con">
+                                        <!-- link opening -->
+                                        <!-- end link opening -->
+                                        <div class="elementskit-infobox text-left icon-top-align elementor-animation-float    ">
+                                          <div class="elementskit-box-header elementor-animation-">
+                                            <div class="elementskit-info-box-icon  ">
+                                              <!-- <i aria-hidden="true" class="elementkit-infobox-icon icon icon-clipboard1"></i> -->
+                                              <img src="images/Ambulance and.png" class="iconImg">
+                                            </div>
+                                          </div>
+                                          <div class="box-body">
+                                            <h3 class="elementskit-info-box-title">Ambulance Call Management </h3>
+                                            <p>Ambulance calls can be managed swiftly to make sure no time is wasted. </p>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="elementor-element elementor-element-503a85f elementor-column elementor-col-33 elementor-inner-column" data-id="503a85f" data-element_type="column">
+                              <div class="elementor-column-wrap  elementor-element-populated">
+                                <div class="elementor-widget-wrap">
+                                  <div class="elementor-element elementor-element-cf739c8 elementor-widget elementor-widget-elementskit-icon-box" data-id="cf739c8" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+                                    <div class="elementor-widget-container">
+                                      <div class="ekit-wid-con">
+                                        <!-- link opening -->
+                                        <!-- end link opening -->
+                                        <div class="elementskit-infobox text-left icon-top-align elementor-animation-float    ">
+                                          <div class="elementskit-box-header elementor-animation-">
+                                            <div class="elementskit-info-box-icon  ">
+                                              <!-- <i aria-hidden="true" class="elementkit-infobox-icon icon icon-clipboard1"></i> -->
+                                              <img src="images/Live Consultation.png" class="iconImg">
+                                            </div>
+                                          </div>
+                                          <div class="box-body">
+                                            <h3 class="elementskit-info-box-title">Live Consultation </h3>
+                                            <p>No Virus Spreads through the Internet except the Computer Virus. So let’s beat CoVid 19 Risks and shift yourself to Live Consultations. </p>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </section>
+                      <section class="elementor-element elementor-element-d8f5554 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="d8f5554" data-element_type="section">
+                        <div class="elementor-container elementor-column-gap-default">
+                          <div class="elementor-row">
+                            <div class="elementor-element elementor-element-503a85f elementor-column elementor-col-33 elementor-inner-column" data-id="503a85f" data-element_type="column">
+                              <div class="elementor-column-wrap  elementor-element-populated">
+                                <div class="elementor-widget-wrap">
+                                  <div class="elementor-element elementor-element-cf739c8 elementor-widget elementor-widget-elementskit-icon-box" data-id="cf739c8" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+                                    <div class="elementor-widget-container">
+                                      <div class="ekit-wid-con">
+                                        <!-- link opening -->
+                                        <!-- end link opening -->
+                                        <div class="elementskit-infobox text-left icon-top-align elementor-animation-float    ">
+                                          <div class="elementskit-box-header elementor-animation-">
+                                            <div class="elementskit-info-box-icon  ">
+                                              <!-- <i aria-hidden="true" class="elementkit-infobox-icon icon icon-clipboard1"></i> -->
+                                              <img src="images/TPA Management.png" class="iconImg">
+                                            </div>
+                                          </div>
+                                          <div class="box-body">
+                                            <h3 class="elementskit-info-box-title">TPA Management </h3>
+                                            <p>Insurance is an Integral Part of Medical System now and so Dr. Storks makes sure that TPAs are well integrated in the system. </p>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="elementor-element elementor-element-503a85f elementor-column elementor-col-33 elementor-inner-column" data-id="503a85f" data-element_type="column">
+                              <div class="elementor-column-wrap  elementor-element-populated">
+                                <div class="elementor-widget-wrap">
+                                  <div class="elementor-element elementor-element-cf739c8 elementor-widget elementor-widget-elementskit-icon-box" data-id="cf739c8" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+                                    <div class="elementor-widget-container">
+                                      <div class="ekit-wid-con">
+                                        <!-- link opening -->
+                                        <!-- end link opening -->
+                                        <div class="elementskit-infobox text-left icon-top-align elementor-animation-float    ">
+                                          <div class="elementskit-box-header elementor-animation-">
+                                            <div class="elementskit-info-box-icon  ">
+                                              <!-- <i aria-hidden="true" class="elementkit-infobox-icon icon icon-clipboard1"></i> -->
+                                              <img src="images/Income & expenditure.png" class="iconImg">
+                                            </div>
+                                          </div>
+                                          <div class="box-body">
+                                            <h3 class="elementskit-info-box-title">Income & expenditure Management</h3>
+                                            <p>Now Manage all Incomes and Expenditures here with our easy to use system. </p>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="elementor-element elementor-element-503a85f elementor-column elementor-col-33 elementor-inner-column" data-id="503a85f" data-element_type="column">
+                              <div class="elementor-column-wrap  elementor-element-populated">
+                                <div class="elementor-widget-wrap">
+                                  <div class="elementor-element elementor-element-cf739c8 elementor-widget elementor-widget-elementskit-icon-box" data-id="cf739c8" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+                                    <div class="elementor-widget-container">
+                                      <div class="ekit-wid-con">
+                                        <!-- link opening -->
+                                        <!-- end link opening -->
+                                        <div class="elementskit-infobox text-left icon-top-align elementor-animation-float    ">
+                                          <div class="elementskit-box-header elementor-animation-">
+                                            <div class="elementskit-info-box-icon  ">
+                                              <!-- <i aria-hidden="true" class="elementkit-infobox-icon icon icon-clipboard1"></i> -->
+                                              <img src="images/Blood Bank.png" class="iconImg">
+                                            </div>
+                                          </div>
+                                          <div class="box-body">
+                                            <h3 class="elementskit-info-box-title">Blood Bank Management </h3>
+                                            <p>Manage all Blood Bank Operations right from Donor management to Inventory and Recipient Management. </p>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </section>
+                      <section class="elementor-element elementor-element-d8f5554 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="d8f5554" data-element_type="section">
+                        <div class="elementor-container elementor-column-gap-default">
+                          <div class="elementor-row">
+                            <div class="elementor-element elementor-element-503a85f elementor-column elementor-col-33 elementor-inner-column" data-id="503a85f" data-element_type="column">
+                              <div class="elementor-column-wrap  elementor-element-populated">
+                                <div class="elementor-widget-wrap">
+                                  <div class="elementor-element elementor-element-cf739c8 elementor-widget elementor-widget-elementskit-icon-box" data-id="cf739c8" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+                                    <div class="elementor-widget-container">
+                                      <div class="ekit-wid-con">
+                                        <!-- link opening -->
+                                        <!-- end link opening -->
+                                        <div class="elementskit-infobox text-left icon-top-align elementor-animation-float    ">
+                                          <div class="elementskit-box-header elementor-animation-">
+                                            <div class="elementskit-info-box-icon  ">
+                                              <!-- <i aria-hidden="true" class="elementkit-infobox-icon icon icon-clipboard1"></i> -->
+                                              <img src="images/Human Resource.png" class="iconImg">
+                                            </div>
+                                          </div>
+                                          <div class="box-body">
+                                            <h3 class="elementskit-info-box-title">Human Resource Management </h3>
+                                            <p>Dr. Storks enables the management of Human Resources involved in Hospital’s Operations. </p>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="elementor-element elementor-element-503a85f elementor-column elementor-col-33 elementor-inner-column" data-id="503a85f" data-element_type="column">
+                              <div class="elementor-column-wrap  elementor-element-populated">
+                                <div class="elementor-widget-wrap">
+                                  <div class="elementor-element elementor-element-cf739c8 elementor-widget elementor-widget-elementskit-icon-box" data-id="cf739c8" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+                                    <div class="elementor-widget-container">
+                                      <div class="ekit-wid-con">
+                                        <!-- link opening -->
+                                        <!-- end link opening -->
+                                        <div class="elementskit-infobox text-left icon-top-align elementor-animation-float    ">
+                                          <div class="elementskit-box-header elementor-animation-">
+                                            <div class="elementskit-info-box-icon  ">
+                                              <!-- <i aria-hidden="true" class="elementkit-infobox-icon icon icon-clipboard1"></i> -->
+                                              <img src="images/Operation Theatre.png" class="iconImg">
+                                            </div>
+                                          </div>
+                                          <div class="box-body">
+                                            <h3 class="elementskit-info-box-title">Operation Theatre Management</h3>
+                                            <p>Digitize your OT record management with Dr. Storks and make your life easy. </p>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="elementor-element elementor-element-503a85f elementor-column elementor-col-33 elementor-inner-column" data-id="503a85f" data-element_type="column">
+                              <div class="elementor-column-wrap  elementor-element-populated">
+                                <div class="elementor-widget-wrap">
+                                  <div class="elementor-element elementor-element-cf739c8 elementor-widget elementor-widget-elementskit-icon-box" data-id="cf739c8" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+                                    <div class="elementor-widget-container">
+                                      <div class="ekit-wid-con">
+                                        <!-- link opening -->
+                                        <!-- end link opening -->
+                                        <div class="elementskit-infobox text-left icon-top-align elementor-animation-float    ">
+                                          <div class="elementskit-box-header elementor-animation-">
+                                            <div class="elementskit-info-box-icon  ">
+                                              <!-- <i aria-hidden="true" class="elementkit-infobox-icon icon icon-clipboard1"></i> -->
+                                              <img src="images/Birth and Death.png" class="iconImg">
+                                            </div>
+                                          </div>
+                                          <div class="box-body">
+                                            <h3 class="elementskit-info-box-title">Birth and Death Record Management</h3>
+                                            <p>Keep a track of all Births and Deaths in your hospital from a Single module. </p>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </section>
 
+                      <section class="elementor-element elementor-element-d8f5554 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="d8f5554" data-element_type="section">
+                        <div class="elementor-container elementor-column-gap-default">
+                          <div class="elementor-row">
+                            <div class="elementor-element elementor-element-503a85f elementor-column elementor-col-33 elementor-inner-column" data-id="503a85f" data-element_type="column">
+                              <div class="elementor-column-wrap  elementor-element-populated">
+                                <div class="elementor-widget-wrap">
+                                  <div class="elementor-element elementor-element-cf739c8 elementor-widget elementor-widget-elementskit-icon-box" data-id="cf739c8" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+                                    <div class="elementor-widget-container">
+                                      <div class="ekit-wid-con">
+                                        <!-- link opening -->
+                                        <!-- end link opening -->
+                                        <div class="elementskit-infobox text-left icon-top-align elementor-animation-float    ">
+                                          <div class="elementskit-box-header elementor-animation-">
+                                            <div class="elementskit-info-box-icon  ">
+                                              <!-- <i aria-hidden="true" class="elementkit-infobox-icon icon icon-clipboard1"></i> -->
+                                              <img src="images/Notice Board.png" class="iconImg">
+                                            </div>
+                                          </div>
+                                          <div class="box-body">
+                                            <h3 class="elementskit-info-box-title">Notice Board </h3>
+                                            <p>Paper notices can be missed but Notice popping up as app notification definitely catches your eye. Our digital notice board makes information dissemination as effective as possible. </p>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="elementor-element elementor-element-503a85f elementor-column elementor-col-33 elementor-inner-column" data-id="503a85f" data-element_type="column">
+                              <div class="elementor-column-wrap  elementor-element-populated">
+                                <div class="elementor-widget-wrap">
+                                  <div class="elementor-element elementor-element-cf739c8 elementor-widget elementor-widget-elementskit-icon-box" data-id="cf739c8" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+                                    <div class="elementor-widget-container">
+                                      <div class="ekit-wid-con">
+                                        <!-- link opening -->
+                                        <!-- end link opening -->
+                                        <div class="elementskit-infobox text-left icon-top-align elementor-animation-float    ">
+                                          <div class="elementskit-box-header elementor-animation-">
+                                            <div class="elementskit-info-box-icon  ">
+                                              <!-- <i aria-hidden="true" class="elementkit-infobox-icon icon icon-clipboard1"></i> -->
+                                              <img src="images/Monitoring Reports.png" class="iconImg">
+                                            </div>
+                                          </div>
+                                          <div class="box-body">
+                                            <h3 class="elementskit-info-box-title">Monitoring Reports</h3>
+                                            <p>Your top Management can now monitor each and every aspect of Hospital Operations using easy to comprehend reports and Pleasing Dashboard. </p>
+                                          </div>
+                                        </div>
+                                      </div>
+                                    </div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                            <div class="elementor-element elementor-element-503a85f elementor-column elementor-col-33 elementor-inner-column" data-id="503a85f" data-element_type="column">
+                              <div class="elementor-column-wrap  elementor-element-populated">
+                                
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </section>
                     </div>
                   </div>
                 </div>
@@ -501,7 +889,8 @@
                               <li class="elementor-icon-list-item">
                                 <span class="elementor-icon-list-icon">
                                   <i class="fas fa-map-marker-alt" aria-hidden="true"></i>
-                                  <span style="background-color: transparent;">Ist Floor, 96P BLOCK, SRI GANGANAGAR,<BR> RAJASTHAN </span>
+                                  <span style="background-color: transparent;">Ist Floor, 96P BLOCK, SRI GANGANAGAR,<br>
+RAJASTHAN</span>
                                 </span>
                               </li>
                               <li class="elementor-icon-list-item">
@@ -529,11 +918,11 @@
                                   <a href="">
                                     <img class="handshake" src="https://drstorks.com/images/deal-1.png" />
                                   </a>
-                                  <a class="hand-img" style="display: inline !important;" href="about-us.html">About Us</a>
+                                  <a class="hand-img" style="display: inline !important;" href="about-us.php">About Us</a>
                                 </span>
                               </li>
                               <li class="elementor-icon-list-item">
-                                <a style="display: inline !important;" href="privacy.html">
+                                <a style="display: inline !important;" href="privacy.php">
                                   <span class="elementor-icon-list-text" style="display: inline !important;">Privacy Policy</span>
                                 </a>
                               </li>
@@ -541,7 +930,9 @@
                           </div>
                         </div>
                       </div>
-                     
+                      <div class="elementor-element elementor-element-4cf26e3 elementor-shape-square elementor-widget elementor-widget-social-icons" data-id="4cf26e3" data-element_type="widget" data-widget_type="social-icons.default">
+                        
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -557,10 +948,10 @@
                     <div class="elementor-widget-container">
                       <ul class="elementor-icon-list-items">
                         <li class="elementor-icon-list-item">
-                          <a href="hospital-management-system.html"> <span class="elementor-icon-list-text">Hospital Management</span> </a>
+                          <a href="hospital-management-system.php"> <span class="elementor-icon-list-text">Hospital Management</span> </a>
                         </li>
                         <li class="elementor-icon-list-item">
-                          <a href="clinic-management-software.html"> <span class="elementor-icon-list-text">Clinic Management Software</span> </a>
+                          <a href="clinic-management-software.php"> <span class="elementor-icon-list-text">Clinic Management Software</span> </a>
                         </li>
                         
                       </ul>
