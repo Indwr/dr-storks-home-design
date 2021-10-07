@@ -345,7 +345,7 @@
 															
 														</li>
 														<li  class="demo">
-															<a href="https://drstorks.com/login" target="_blank" class="ekit-menu-nav-link">Demo</a>
+															<a href="https://demo.drstorks.com/login" target="_blank" class="ekit-menu-nav-link">Demo</a>
 															
 														</li>
 
