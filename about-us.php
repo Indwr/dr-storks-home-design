@@ -638,7 +638,7 @@
                               <h3 class="elementor-icon-box-title">
                                 <!-- <span>Set </span> -->
                               </h3>
-                              <p class="elementor-icon-box-description">- Schedule A <a href="about-us.php">Call</a>  </p>
+                              <p class="elementor-icon-box-description">- Schedule A <a href="pricing.php">Call</a>  </p>
                             </div>
                           </div>
                         </div>
@@ -662,7 +662,7 @@
                               <h3 class="elementor-icon-box-title">
                                 <!-- <span>Go</span> -->
                               </h3>
-                              <p class="elementor-icon-box-description">- Get Your Product <a href="https://drstorks.com/login">Deployed</a></p>
+                              <p class="elementor-icon-box-description">- Get Your Product <a href="https://demo.drstorks.com/login">Deployed</a></p>
                             </div>
                           </div>
                         </div>

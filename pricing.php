@@ -518,21 +518,21 @@
                                         <div class="elementskit-infobox text- icon-lef-right-aligin elementor-animation-    " style="background-color:#0b6091">
                                           <div class="box-body">
                                             <h2 class="elementskit-info-box-title" style="color:#fff">Enquire Now </h2>
-                                           <form>
-                                             <input type="" name="" placeholder="Name*">
-                                             <input type="" name="" placeholder="Email Address*">
-                                             <input type="" name="" placeholder="Mobile Number*">
-                                             <input type="" name="" placeholder="Clinic/Hospital/Org Name*">
-                                             <select>
+                                           <form action="" method="POST">
+                                             <input type="text"  placeholder="Name*" name="name" required>
+                                             <input type="email"  placeholder="Email Address*" name="email" required>
+                                             <input type="number"  placeholder="Mobile Number*" name="phone" required>
+                                             <input type="text"  placeholder="Clinic/Hospital/Org Name*" name="type" required>
+                                             <select name="product">
                                                <option>Select Products</option>
-                                               <option>Hospital Management Software</option>
-                                               <option>Clinic Management Software</option>
-                                               <option>Customized Software</option>
+                                               <option value="Hospital Management Software">Hospital Management Software</option>
+                                               <option value="Clinic Management Software">Clinic Management Software</option>
+                                               <option value="Customized Software">Customized Software</option>
                                              </select>
-                                             <input type="" name="" placeholder="Location*">
-                                             <input type="" name="" placeholder="Your Message*">
+                                             <input type="text" name="location" placeholder="Location*" required>
+                                             <input type="text" name="msg" placeholder="Your Message*" required>
                                              <!-- <input type="submit" name=""> -->
-                                             <button type="submit" style="color: #fff;border: 1px solid #fff;">Send Request</button>
+                                             <button type="submit" name="submit" style="color: #fff;border: 1px solid #fff;">Send Request</button>
                                            </form>
                                           </div>
                                         </div>
@@ -837,3 +837,31 @@
   </body>
 </html>
 <!-- WP Fastest Cache file was created in 0.85790586471558 seconds, on 26-07-21 11:27:30 -->
+
+
+
+<?php 
+
+
+if(isset($_POST['submit'])){
+    // print_r($_POST);
+
+  $to = "abhimanyu@thekrazyideas.com";
+  $subject = "Demo Pricing";
+  $txt = "
+
+    Name = '".$_POST['name']."'
+    Phone = '".$_POST['phone']."'
+    Email = '".$_POST['email']."'
+    Category = '".$_POST['type']."'
+    Product = '".$_POST['product']."'
+    Location = '".$_POST['location']."'
+    Message = '".$_POST['msg']."'
+  ";
+  $headers = "From: contact@drstorks.com" . "\r\n" .
+  "CC: contact@drstorks.com";
+
+  mail($to,$subject,$txt,$headers);
+
+  }
+ ?>
