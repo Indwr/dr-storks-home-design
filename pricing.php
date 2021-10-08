@@ -518,7 +518,7 @@
                                         <div class="elementskit-infobox text- icon-lef-right-aligin elementor-animation-    " style="background-color:#0b6091">
                                           <div class="box-body">
                                             <h2 class="elementskit-info-box-title" style="color:#fff">Enquire Now </h2>
-                                           <form action="" method="POST">
+                                           <form action="" method="post">
                                              <input type="text"  placeholder="Name*" name="name" required>
                                              <input type="email"  placeholder="Email Address*" name="email" required>
                                              <input type="number"  placeholder="Mobile Number*" name="phone" required>
@@ -844,9 +844,7 @@
 
 
 if(isset($_POST['submit'])){
-    // print_r($_POST);
-
-  $to = "abhimanyu@thekrazyideas.com";
+  $to = "indersein416@gmail.com";
   $subject = "Demo Pricing";
   $txt = "
 
@@ -858,10 +856,18 @@ if(isset($_POST['submit'])){
     Location = '".$_POST['location']."'
     Message = '".$_POST['msg']."'
   ";
-  $headers = "From: contact@drstorks.com" . "\r\n" .
-  "CC: contact@drstorks.com";
+  // $headers = "From: indersein416@gmail.com" . "\r\n" .
+  // "CC: indersein416@gmail.com";
 
-  mail($to,$subject,$txt,$headers);
+  // mail($to,$subject,$txt,$headers);
+  $to      = 'indersein416@gmail.com';
+  $subject = 'Dr Stork Query';
+  $message = $txt;
+  $headers = 'From: webmaster@example.com'       . "\r\n" .
+               'Reply-To: webmaster@example.com' . "\r\n" .
+               'X-Mailer: PHP/' . phpversion();
+
+  mail($to, $subject, $message, $headers);
 
   }
  ?>
