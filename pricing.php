@@ -518,7 +518,7 @@
                                         <div class="elementskit-infobox text- icon-lef-right-aligin elementor-animation-    " style="background-color:#0b6091">
                                           <div class="box-body">
                                             <h2 class="elementskit-info-box-title" style="color:#fff">Enquire Now </h2>
-                                           <form action="" method="post">
+                                           <form action="" method="POST">
                                              <input type="text"  placeholder="Name*" name="name" required>
                                              <input type="email"  placeholder="Email Address*" name="email" required>
                                              <input type="number"  placeholder="Mobile Number*" name="phone" required>
@@ -844,30 +844,59 @@
 
 
 if(isset($_POST['submit'])){
-  $to = "indersein416@gmail.com";
-  $subject = "Demo Pricing";
-  $txt = "
+    // print_r($_POST);
 
-    Name = '".$_POST['name']."'
-    Phone = '".$_POST['phone']."'
-    Email = '".$_POST['email']."'
-    Category = '".$_POST['type']."'
-    Product = '".$_POST['product']."'
-    Location = '".$_POST['location']."'
-    Message = '".$_POST['msg']."'
-  ";
-  // $headers = "From: indersein416@gmail.com" . "\r\n" .
-  // "CC: indersein416@gmail.com";
+  // $to = "abhimanyu@thekrazyideas.com";
+  // $subject = "Demo Pricing";
+  // $txt = "
+
+  //   Name = '".$_POST['name']."'
+  //   Phone = '".$_POST['phone']."'
+  //   Email = '".$_POST['email']."'
+  //   Category = '".$_POST['type']."'
+  //   Product = '".$_POST['product']."'
+  //   Location = '".$_POST['location']."'
+  //   Message = '".$_POST['msg']."'
+  // ";
+  // $headers = "From: contact@drstorks.com" . "\r\n" .
+  // "CC: contact@drstorks.com";
 
   // mail($to,$subject,$txt,$headers);
-  $to      = 'indersein416@gmail.com';
-  $subject = 'Dr Stork Query';
-  $message = $txt;
-  $headers = 'From: webmaster@example.com'       . "\r\n" .
-               'Reply-To: webmaster@example.com' . "\r\n" .
-               'X-Mailer: PHP/' . phpversion();
 
-  mail($to, $subject, $message, $headers);
+require_once(__DIR__ . '/api/vendor/autoload.php');
 
-  }
- ?>
+$config = SendinBlue\Client\Configuration::getDefaultConfiguration()->setApiKey('api-key', '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');
+
+$apiInstance = new SendinBlue\Client\Api\TransactionalEmailsApi(new GuzzleHttp\Client(),$config);
+$sendSmtpEmail = new \SendinBlue\Client\Model\SendSmtpEmail();
+$sendSmtpEmail['subject'] = 'Dr Storks contact-us mail';
+$sendSmtpEmail['htmlContent'] = '<html><body>
+
+      Name = "'.$_POST["name"].'" </br>
+      Phone = "'.$_POST["phone"].'" </br>
+      Email = "'.$_POST["email"].'" </br>
+      Type = "'.$_POST["type"].'" </br>
+      Product = "'.$_POST["product"].'" </br>
+      Locatuion = "'.$_POST["location"].'" </br>
+      Message = "'.$_POST["msg"].'" </br>
+
+</body></html>';
+$sendSmtpEmail['sender'] = array('name' => 'Dr Storks', 'email' => 'contact@drstorks.com');
+$sendSmtpEmail['to'] = array(
+    array('email' => 'abhimanyu@thekrazyideas.com', 'name' => 'Abhimanyu')
+);
+$sendSmtpEmail['replyTo'] = array('email' => 'operations@thekrazyideas.com', 'name' => 'The Krazy Ideas');
+$sendSmtpEmail['headers'] = array('Some-Custom-Name' => uniqid());
+// $sendSmtpEmail['params'] = array('parameter' => 'My param value', 'subject' => 'New Subject');
+
+try {
+    $result = $apiInstance->sendTransacEmail($sendSmtpEmail);
+    // print_r($result);
+} catch (Exception $e) {
+    // echo 'Exception when calling TransactionalEmailsApi->sendTransacEmail: ', $e->getMessage(), PHP_EOL;
+}
+
+}
+?>
+
+ 
